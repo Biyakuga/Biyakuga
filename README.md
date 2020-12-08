@@ -1,4 +1,5 @@
-<img src="Images/Backgrounds/Background 001 - Sakura Trees with Profile" alt="Background.png">
+<img src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background%20001%20-%20Sakura%20Trees%20with%20Profile.png" alt="Background.png">
+
 ## Biyakuga Higashiri
 
 #### Programing Languages
