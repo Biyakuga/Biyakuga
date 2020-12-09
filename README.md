@@ -1,7 +1,7 @@
 <img src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background%20001%20-%20Sakura%20Trees%20with%20Profile.png" alt="Background.png">
 
 ## Biyakuga Higashiri
-
+<!--
 #### Programing Languages
 * **Front-end**
 	- [x] Html
@@ -18,7 +18,7 @@
 	- [ ] React
 * **Back-end**
 	- [x] Spring
-
+-->
 <!--
 **Biyakuga/Biyakuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
