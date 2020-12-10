@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Biyakuga/Biyakuga/tree/main/Images/Backgrounds/Background_001.png">
-        <img src="https://github.com/Biyakuga/Biyakuga/tree/main/Images/Backgrounds/Background_001.png"
+        <img src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_001.png"
         title="Background 001 - Sakura Trees with Profile"
         alt="Background" />
 	</a>
