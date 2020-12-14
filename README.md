@@ -19,6 +19,10 @@
     <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?label=size&logo=GitHub"
     title="Badge 04 - GitHub repo size"
     alt="Badge" />
+    <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?logo=GitHub"
+    title="Badge 05 - GitHub repo stars"
+    alt="Badge" />
+    
 </p>
 
 # Biyakuga Higashiri
