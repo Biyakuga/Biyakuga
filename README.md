@@ -7,14 +7,17 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?logo=GitHub&style=flat-square"
+    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?logo=GitHub"
     title="Badge 01 - GitHub all releases"
     alt="Badge" />
-    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?logo=GitHub&style=flat-square"
-    title="Badge 02 - GitHub release by date"
+    <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?logo=GitHub"
+    title="Badge 02 - GitHub all forks"
     alt="Badge" />
-    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?label=size&logo=GitHub&style=flat-square"
-    title="Badge 03 - GitHub repo size"
+    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?logo=GitHub"
+    title="Badge 03 - GitHub release by date"
+    alt="Badge" />
+    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?label=size&logo=GitHub"
+    title="Badge 04 - GitHub repo size"
     alt="Badge" />
 </p>
 
