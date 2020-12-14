@@ -3,7 +3,19 @@
         <img src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_001.png"
         title="Background 001 - Sakura Trees with Profile"
         alt="Background" />
-	</a>
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?logo=GitHub&style=flat-square"
+    title="Badge 01 - GitHub all releases"
+    alt="Badge" />
+    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?logo=GitHub&style=flat-square"
+    title="Badge 02 - GitHub release by date"
+    alt="Badge" />
+    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?label=size&logo=GitHub&style=flat-square"
+    title="Badge 03 - GitHub repo size"
+    alt="Badge" />
 </p>
 
 # Biyakuga Higashiri
