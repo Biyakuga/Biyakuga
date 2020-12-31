@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?logo=GitHub"
     title="Badge 05 - GitHub repo stars"
     alt="Badge" />
-    
 </p>
+<br />
 
 # Biyakuga Higashiri
 
@@ -39,4 +39,7 @@ Last but not least, make sure to check out the [ChangeLog](CHANGELOG.md "Version
 
 
 ### Contact
-✉ [Email]("BiyakugaNostalgia@outlook.com" "Email Address") 💻 [Discord](https://discordapp.com/users/Biyakuga#0101 "Discord Profile")
+<a align="center" href="https://discordapp.com/users/Biyakuga#0101"> <img align="center" src="https://imgur.com/oPtKxVc.png"> Email</a> <a align="center" href="https://discordapp.com/users/Biyakuga#0101"> <img align="center" src="https://imgur.com/oveY3Cc.png"> Discord</a>
+
+<!-- ✉ [Email]("BiyakugaNostalgia@outlook.com" "Email Address") 💻 [Discord](https://discordapp.com/users/Biyakuga#0101 "Discord Profile") Size 24px-->
+
