@@ -8,22 +8,28 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?logo=GitHub"
-    title="Badge 01 - GitHub all releases"
+    title="Badge 01 - GitHub All Releases"
+    alt="Badge" />
+    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?logo=GitHub"
+    title="Badge 02 - GitHub Contributors"
     alt="Badge" />
     <img src="https://img.shields.io/github/license/Biyakuga/Biyakuga?logo=GitHub"
-    title="Badge 02 - GitHub License"
+    title="Badge 03 - GitHub License"
+    alt="Badge" />
+    <img src="https://img.shields.io/github/issues/Biyakuga/Biyakuga?logo=GitHub"
+    title="Badge 04 - GitHub Issues"
     alt="Badge" />
     <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?logo=GitHub"
-    title="Badge 03 - GitHub all forks"
+    title="Badge 05 - GitHub All Fforks"
     alt="Badge" />
     <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?logo=GitHub"
-    title="Badge 04 - GitHub release by date"
+    title="Badge 06 - GitHub Release By Date"
     alt="Badge" />
     <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?label=size&logo=GitHub"
-    title="Badge 05 - GitHub repo size"
+    title="Badge 07 - GitHub Repo Size"
     alt="Badge" />
     <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?logo=GitHub"
-    title="Badge 06 - GitHub repo stars"
+    title="Badge 08 - GitHub Repo Stars"
     alt="Badge" />
 </p>
 
@@ -71,8 +77,10 @@ Please make sure to check out my repository to find out more about my skills and
 </p>
 
 ## Contact
+<p>
 <a align="center" href="https://outlook.com/"> <img align="center" src="https://imgur.com/oPtKxVc.png"> Email </a> 
 <a align="center" href="https://discordapp.com/"> <img align="center" src="https://imgur.com/oveY3Cc.png"> Discord </a>
+<a align="center" href="https://www.whatsapp.com/"> <img align="center" src="https://imgur.com/emlsrF3.png"> WhatsApp </a>
 <a align="center" href="https://www.facebook.com/"> <img align="center" src="https://imgur.com/MWDKRf3.png"> Facebook </a>
 <a align="center" href="https://twitter.com/"> <img align="center" src="https://imgur.com/GEgqoA3.png"> Twitter </a>
 <a align="center" href="https://www.youtube.com/"> <img align="center" src="https://imgur.com/udDO54K.png"> YouTube </a>
@@ -80,5 +88,5 @@ Please make sure to check out my repository to find out more about my skills and
 <a align="center" href="https://github.com/"> <img align="center" src="https://imgur.com/0dhehst.png"> GitHub </a>
 <a align="center" href="https://linkedin.com/"> <img align="center" src="https://imgur.com/uQlleSf.png"> LinkedIn </a>
 <a align="center" href="https://patreon.com/"> <img align="center" src="https://imgur.com/Ppmuw5X.png"> Patreon </a>
-
+</p>
 
