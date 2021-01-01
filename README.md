@@ -37,7 +37,7 @@ Moreover, Besides programming, I love spending time with friends and family. I c
 
 Last but not least, make sure to check out the [ChangeLog](CHANGELOG.md "Versions File") file for all the changes in this repository.
 
-## Programing languages
+## Skills
 <p>
 <!-- Red -->
 <img src="https://img.shields.io/badge/-Html-dd4b25?style=flat&logo=html5&logoColor=ffffff" />
@@ -48,16 +48,16 @@ Last but not least, make sure to check out the [ChangeLog](CHANGELOG.md "Version
 <img src="https://img.shields.io/badge/-JavaScript-d5b422?style=flat&logo=javascript&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-MySql-f08d00?style=flat&logo=mysql&logoColor=ffffff" />
 <!-- Green -->
-<img src="http://img.shields.io/badge/-Vue-41b883?style=flat&logo=vue.js&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Spring-6db33f?style=flat&logo=spring&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/-Node.js-3c873a?style=flat&logo=node.js&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-MongoDb-4ca449?style=flat&logo=mongodb&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Node.js-3c873a?style=flat&logo=node.js&logoColor=ffffff" />
+<img src="http://img.shields.io/badge/-Vue-41b883?style=flat&logo=vue.js&logoColor=ffffff" />
 <!-- Blue -->
-<img src="http://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=ffffff" />
-<img src="http://img.shields.io/badge/-Python-407cab?style=flat&logo=python&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/-Css-254bdd?style=flat&logo=css3&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-SqlLite-6cb9e1?style=flat&logo=sqlite&logoColor=ffffff" />
+<img src="http://img.shields.io/badge/-Python-407cab?style=flat&logo=python&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-PostgreSql-31648c?style=flat&logo=postgresql&logoColor=ffffff" />
+<img src="http://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Css-254bdd?style=flat&logo=css3&logoColor=ffffff" />
 <!-- Purple -->
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-CSharp-2b0169?style=flat&logo=c-sharp&logoColor=ffffff" />
