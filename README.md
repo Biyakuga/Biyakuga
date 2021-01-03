@@ -41,11 +41,12 @@ We are doing amazing things there, such as developing tools to run old games fro
 
 Moreover, Besides programming, I love spending time with friends and family. I can often be found together going out catching the latest movie, staying in playing games on the sofa, or planning a trip to someplace I've never been before.
 
-Last but not least, make sure to check out the [ChangeLog](CHANGELOG.md "Versions File") file for all the changes in this repository.
+Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Versions File") file for all the changes in this repository.
 
 ## Skills
 <p>
 <!-- Red -->
+<img src="http://img.shields.io/badge/-Git-ec5a3d?style=flat&logo=git&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Html-dd4b25?style=flat&logo=html5&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-MsSql-cc2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Java-ec2024?style=flat&logo=java&logoColor=ffffff" />
@@ -68,6 +69,7 @@ Last but not least, make sure to check out the [ChangeLog](CHANGELOG.md "Version
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-CSharp-2b0169?style=flat&logo=c-sharp&logoColor=ffffff" />
 <!-- Black -->
+<img src="https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github&logoColor=ededed" />
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ededed" />
 </p>
 <p>
@@ -75,6 +77,12 @@ The list above shows the programming languages, frameworks, databases, software,
 I have in some of those technologies and programming languages more advanced knowledge and experiences than others.
 Please make sure to check out my repository to find out more about my skills and knowledge.
 </p>
+
+<!-- Widgets Repository - https://github.com/anuraghazra/github-readme-stats -->
+<!--
+[![Biyakuga's Github Stats](https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=true&bg_color=5d5d5d&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac)](https://github.com/Biyakuga)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biyakuga&layout=compact&hide_border=true&bg_color=5d5d5d&langs_count=7&title_color=5094f0&text_color=e5e5e5&card_width=445)](https://github.com/Biyakuga)
+-->
 
 ## Contact
 <p>
