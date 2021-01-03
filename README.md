@@ -31,6 +31,11 @@
     <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?logo=GitHub"
     title="Badge 08 - GitHub Repo Stars"
     alt="Badge" />
+    <!--
+    <img src="https://komarev.com/ghpvc/?username=biyakuga&a&label=views&logo=github" 
+    title="Badge 09 - Profile Views"
+    alt="Badge" />
+    -->
 </p>
 
 ## About
@@ -41,7 +46,7 @@ We are doing amazing things there, such as developing tools to run old games fro
 
 Moreover, Besides programming, I love spending time with friends and family. I can often be found together going out catching the latest movie, staying in playing games on the sofa, or planning a trip to someplace I've never been before.
 
-Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Versions File") file for all the changes in this repository.
+Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Versions File") file for all the changes in this repository and the [**License**](LICENSE.md) of this repository to understand its permissions and limitations.
 
 ## Skills
 <p>
@@ -78,11 +83,39 @@ I have in some of those technologies and programming languages more advanced kno
 Please make sure to check out my repository to find out more about my skills and knowledge.
 </p>
 
+| # | Repository         | Technology               | Purpose                |
+|---|--------------------|--------------------------|------------------------|
+| 1 | Biyakuga           | Html, Css and JavaScript | A General introduction |
+| 2 | RepositoryTemplate | Markdowns and Templates  | Template for projects  |
+
+
 <!-- Widgets Repository - https://github.com/anuraghazra/github-readme-stats -->
 <!--
 [![Biyakuga's Github Stats](https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=true&bg_color=5d5d5d&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac)](https://github.com/Biyakuga)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biyakuga&layout=compact&hide_border=true&bg_color=5d5d5d&langs_count=7&title_color=5094f0&text_color=e5e5e5&card_width=445)](https://github.com/Biyakuga)
 -->
+
+## License
+    MIT License
+
+    Copyright (c) 2021 Biyakuga
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+    and associated documentation files (the "Software"), to deal in the Software without restriction,
+    including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+    and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+    INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+    AND NONINFRINGEMENT.
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+    DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+    OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Contact
 <p>
