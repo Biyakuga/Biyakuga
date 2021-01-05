@@ -69,12 +69,15 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <img src="http://img.shields.io/badge/-Python-407cab?style=flat&logo=python&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-PostgreSql-31648c?style=flat&logo=postgresql&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Windows-0078d6?style=flat&logo=windows&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Css-254bdd?style=flat&logo=css3&logoColor=ffffff" />
 <!-- Purple -->
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-CSharp-2b0169?style=flat&logo=c-sharp&logoColor=ffffff" />
 <!-- Black -->
 <img src="https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github&logoColor=ededed" />
+<img src="https://img.shields.io/badge/-Medium-121212?style=flat&logo=medium&logoColor=ededed" />
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ededed" />
 </p>
 <p>
