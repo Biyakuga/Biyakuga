@@ -51,7 +51,7 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 ## Skills
 <p>
 <!-- Orange -->
-<img src="https://img.shields.io/badge/-JavaScript-d5b422?style=flat&logo=javascript&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-MySql-f08d00?style=flat&logo=mysql&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Git-ec5a3d?style=flat&logo=git&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Html-dd4b25?style=flat&logo=html5&logoColor=ffffff" />
@@ -60,7 +60,7 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <img src="http://img.shields.io/badge/-Java-ec2024?style=flat&logo=java&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Angular-d6002f?style=flat&logo=angular&logoColor=ffffff" />
 <!-- Yellow -->
-<img src="https://img.shields.io/badge/-MySql-f08d00?style=flat&logo=mysql&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-JavaScript-d5b422?style=flat&logo=javascript&logoColor=ffffff" />
 <!-- Green -->
 <img src="http://img.shields.io/badge/-Spring-6db33f?style=flat&logo=spring&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-MongoDb-4ca449?style=flat&logo=mongodb&logoColor=ffffff" />
