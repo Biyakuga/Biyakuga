@@ -128,8 +128,9 @@ Please consider supporting my work by donating a few bucks via the links below.
 </p>
 
 ## License
-    MIT License
+You can read more about the license of this repository below.
 
+    MIT License
     Copyright (c) 2021 Biyakuga
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software
@@ -150,6 +151,7 @@ Please consider supporting my work by donating a few bucks via the links below.
     OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Contact
+You can reach me out me and chat with me via the following platforms below.
 <p>
 <a align="center" href="https://outlook.com/"> <img align="center" src="https://imgur.com/oPtKxVc.png"> Email </a> 
 <a align="center" href="https://discordapp.com/"> <img align="center" src="https://imgur.com/oveY3Cc.png"> Discord </a>
