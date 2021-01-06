@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=red&logo=github"
+    <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=red&logo=github&label=visits"
     title="Badge 00 - GitHub Profile Views"
     alt="Badge" />
     <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?logo=GitHub"
@@ -165,4 +165,8 @@ Please consider supporting my work by donating a few bucks via the links below.
 <a align="center" href="https://linkedin.com/"> <img align="center" src="https://imgur.com/uQlleSf.png"> LinkedIn </a>
 <a align="center" href="https://patreon.com/"> <img align="center" src="https://imgur.com/Ppmuw5X.png"> Patreon </a>
 </p>
+
+---
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 6 January, 01:18 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
