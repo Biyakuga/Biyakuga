@@ -50,9 +50,11 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 
 ## Skills
 <p>
-<!-- Red -->
+<!-- Orange -->
+<img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Git-ec5a3d?style=flat&logo=git&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Html-dd4b25?style=flat&logo=html5&logoColor=ffffff" />
+<!-- Red -->
 <img src="https://img.shields.io/badge/-MsSql-cc2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Java-ec2024?style=flat&logo=java&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-Angular-d6002f?style=flat&logo=angular&logoColor=ffffff" />
