@@ -1,3 +1,4 @@
+<!-- Logo (Header) -->
 <p align="center">
     <a href="https://github.com/Biyakuga/Biyakuga/tree/main/Images/Backgrounds/Background_001.png">
         <img src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_001.png"
@@ -6,6 +7,7 @@
     </a>
 </p>
 
+<!-- Badges: https://shields.io/ -->
 <p align="center">
     <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=red&logo=github&label=visits"
     title="Badge 00 - GitHub Profile Views"
@@ -41,14 +43,17 @@
     -->
 </p>
 
+<!-- About Me -->
 ## About
-My name is _`Biyakuga Higashiri`_ and I am a freelance developer with a passion for user experience, user interfaces, games, tools, and in general, anything that can be coded.
-Besides, I am one of the founders and the current owner of the group Nostalgia Community in the discord app.
-We are doing amazing things there, such as developing tools to run old games from the 80s and 90s decades on modern computer  systems.
-Moreover, Besides programming, I love spending time with friends and family. I can often be found together going out catching the latest movie, staying in playing games on the sofa, or planning a trip to someplace I've never been before.
+My name is _`Biyakuga Higashiri`_ and I am a freelance developer with a passion for user experience, user interfaces, games, tools, and in general, anything that can be coded.<br>
+Besides, I am one of the founders and the current owner of the group Nostalgia Community in the discord app.<br>
+We are doing amazing things there, such as developing tools to run old games from the 80s and 90s decades on modern computer  systems.<br>
+Moreover, Besides programming, I love spending time with friends and family. I can often be found together going out catching the latest movie, staying in playing games on the sofa, or planning a trip to someplace I've never been before.<br>
 Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Versions File") file for all the changes in this repository and the [**License**](LICENSE.md) of this repository to understand its permissions and limitations.
 
+<!-- My Skills -->
 ## Skills
+<!-- Badges: https://shields.io/ -->
 <p>
 <!-- Orange -->
 <img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
@@ -83,16 +88,16 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ededed" />
 </p>
 <p>
-The list above shows the programming languages, frameworks, databases, software, and technologies I had experience with within some of my projects and studies in recent years.
-I have in some of those technologies and programming languages more advanced knowledge and experiences than others.
+The list above shows the programming languages, frameworks, databases, software, and technologies I had experience with within some of my projects and studies in recent years.<br>
+I have in some of those technologies and programming languages more advanced knowledge and experiences than others.<br>
 Please make sure to check out my repository to find out more about my skills and knowledge.
 </p>
 
+<!-- Table (Favorite Repository) -->
 | # | Repository         | Technology               | Purpose                |
 |---|--------------------|--------------------------|------------------------|
 | 1 | Biyakuga           | Html, Css and JavaScript | A General introduction |
 | 2 | RepositoryTemplate | Markdowns and Templates  | Template for projects  |
-
 
 <!-- Widgets Repository Version 01- https://github.com/anuraghazra/github-readme-stats -->
 <!--
@@ -112,6 +117,7 @@ Please make sure to check out my repository to find out more about my skills and
 </p>
 -->
 
+<!-- Support Me -->
 ## Support
 Please consider supporting my work by donating a few bucks via the links below.
 
@@ -127,6 +133,7 @@ Please consider supporting my work by donating a few bucks via the links below.
   </a>
 </p>
 
+<!-- Repository License -->
 ## License
 You can read more about the license of this repository below.
 
@@ -151,6 +158,7 @@ You can read more about the license of this repository below.
     ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
     OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+<!-- Contact Me -->
 ## Contact
 You can reach me out me and chat with me via the following platforms below.
 <p>
@@ -165,6 +173,11 @@ You can reach me out me and chat with me via the following platforms below.
 <a align="center" href="https://linkedin.com/"> <img align="center" src="https://imgur.com/uQlleSf.png"> LinkedIn </a>
 </p>
 
+<!-- Extra (Footer) -->
 ---
-<p align="center">This <i>README</i> file is generated <b>every 24 hours,</b> last refresh: Wednesday, 6 January, 01:18 CET.</p>
-<p align="center"> Biyakuga Higashiri © Copyright 2021 All Rights Reserved.</p>
+<img width="50%" align="right" alt="Github" src="https://imgur.com/g5vpjVO.png" />
+<br><br>
+<p align="left">Feel free to use this repository elements on your own one or get inspired by it, also make sure to share ideas and other features that can make this repository better.<br><br>
+This <i>README</i> file is generated <b>every 24 hours by an action process,</b> last refresh: Wednesday, 6 January, 01:18 CET.<br>
+<b>Biyakuga Higashiri</br> © Copyright 2021 All Rights Reserved.
+</p>
