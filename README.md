@@ -131,6 +131,7 @@ Please consider supporting my work by donating a few bucks via the links below.
 You can read more about the license of this repository below.
 
     MIT License
+    
     Copyright (c) 2021 Biyakuga
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software
@@ -162,7 +163,6 @@ You can reach me out me and chat with me via the following platforms below.
 <a align="center" href="https://www.instagram.com/"> <img align="center" src="https://imgur.com/VzZN8oQ.png"> Instagram </a>
 <a align="center" href="https://github.com/"> <img align="center" src="https://imgur.com/0dhehst.png"> GitHub </a>
 <a align="center" href="https://linkedin.com/"> <img align="center" src="https://imgur.com/uQlleSf.png"> LinkedIn </a>
-<a align="center" href="https://patreon.com/"> <img align="center" src="https://imgur.com/Ppmuw5X.png"> Patreon </a>
 </p>
 
 ---
