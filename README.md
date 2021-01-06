@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+    <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=red&logo=github"
+    title="Badge 00 - GitHub Profile Views"
+    alt="Badge" />
     <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?logo=GitHub"
     title="Badge 01 - GitHub All Releases"
     alt="Badge" />
