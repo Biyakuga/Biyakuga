@@ -177,7 +177,7 @@ You can reach me out me and chat with me via the following platforms below.
 ---
 <img width="50%" align="right" alt="Github" src="https://imgur.com/g5vpjVO.png" />
 <h3>Build Your Dream</h3>
-<p align="left">Feel free to use this repository elements on your own one or get inspired by it, also make sure to share ideas and other features that can make this repository better.</p>
+<p align="left">Feel free to use elements from this repository on your own one or get inspired by it, also make sure to share ideas and other features that can make this repository better.</p>
 <p align="left">This <i>README</i> file is generated <b>every 24 hours by an action process,</b> last refresh: Wednesday, 6 January, 01:18 CET.<br>
 <b>Biyakuga Higashiri</b> © Copyright 2021 All Rights Reserved.
 </p>
