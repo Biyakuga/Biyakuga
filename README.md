@@ -122,14 +122,17 @@ Please make sure to check out my repository to find out more about my skills and
 Please consider supporting my work by donating a few bucks via the links below.
 
 <p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
+  <a href="https://www.patreon.com/" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Patreon.png" />
   </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/BuyCoffee.png" />
+  </a>
+  <a href="https://www.paypal.com" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/PayPal.png" />
   </a>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/BuyCoffee.png" />
+  <a href="https://github.com/sponsors/" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Sponsor.png" />
   </a>
 </p>
 
