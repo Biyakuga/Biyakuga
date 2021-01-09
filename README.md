@@ -123,16 +123,16 @@ Please consider supporting my work by donating a few bucks via the links below.
 
 <p align="center">
   <a href="https://www.patreon.com/" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Patreon.png" />
+    <img width="18%" alt="Check my Patreon" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Patreon.png" />
   </a>
   <a href="https://www.buymeacoffee.com/" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/BuyCoffee.png" />
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.png" />
   </a>
   <a href="https://www.paypal.com" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/PayPal.png" />
+      <img width="18%" alt="Donate with Paypal" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/PayPal.png" />
   </a>
   <a href="https://github.com/sponsors/" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Sponsor.png" />
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Sponsor.png" />
   </a>
 </p>
 
