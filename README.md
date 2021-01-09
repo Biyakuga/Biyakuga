@@ -117,13 +117,13 @@ Please make sure to check out my repository to find out more about my skills and
 Please consider supporting my work by donating a few bucks via the links below.
 
 <p align="center">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+    <img width="18%" alt="Buy me a coffee" 
+    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.png" />
+  </a>
   <a href="https://www.patreon.com/" target="_blank">
     <img width="18%" alt="Check my Patreon" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Patreon.png" />
-  </a>
-  <a href="https://www.buymeacoffee.com/" target="_blank">
-      <img width="18%" alt="Buy me a coffee" 
-      src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.png" />
   </a>
   <a href="https://www.paypal.com" target="_blank">
       <img width="18%" alt="Donate with Paypal" 
@@ -164,17 +164,17 @@ You can read more about the license of this repository below.
 ## Contact
 You can reach me out me and chat with me via the following platforms below.
 <p>
+<a align="center" href="https://www.youtube.com/"> 
+    <img align="center" high="32" width="32"
+    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Youtube.png" 
+    title="Icon 05 - YouTube"
+    alt="Icon"> YouTube
+</a>
 <a align="center" href="https://outlook.com/"> 
     <img align="center" high="32" width="32" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Mail.png" 
     title="Icon 01 - Email" 
     alt="Icon"> Email
-</a> 
-<a align="center" href="https://discordapp.com/"> 
-    <img align="center" high="32" width="32"
-    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Discord.png" 
-    title="Icon 02 - Discord"
-    alt="Icon"> Discord
 </a>
 <a align="center" href="https://www.whatsapp.com/"> 
     <img align="center" high="32" width="32"
@@ -182,17 +182,23 @@ You can reach me out me and chat with me via the following platforms below.
     title="Icon 03 - Whatsapp"
     alt="Icon"> WhatsApp
 </a>
+<a align="center" href="https://linkedin.com/"> 
+    <img align="center" high="32" width="32"
+    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Linkedin.png" 
+    title="Badge 08 - Linkedin"
+    alt="Icon"> LinkedIn
+</a>
 <a align="center" href="https://www.facebook.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Facebook.png" 
     title="Icon 04 - Facebook"
     alt="Icon"> Facebook
 </a>
-<a align="center" href="https://www.youtube.com/"> 
+<a align="center" href="https://discordapp.com/"> 
     <img align="center" high="32" width="32"
-    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Youtube.png" 
-    title="Icon 05 - YouTube"
-    alt="Icon"> YouTube
+    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Discord.png" 
+    title="Icon 02 - Discord"
+    alt="Icon"> Discord
 </a>
 <a align="center" href="https://www.instagram.com/"> 
     <img align="center" high="32" width="32"
@@ -205,12 +211,6 @@ You can reach me out me and chat with me via the following platforms below.
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png" 
     title="Icon 07 - GitHub"
     alt="Icon"> GitHub
-</a>
-<a align="center" href="https://linkedin.com/"> 
-    <img align="center" high="32" width="32"
-    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Linkedin.png" 
-    title="Badge 08 - Linkedin"
-    alt="Icon"> LinkedIn
 </a>
 </p>
 
