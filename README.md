@@ -165,15 +165,30 @@ You can read more about the license of this repository below.
 ## Contact
 You can reach me out me and chat with me via the following platforms below.
 <p>
-<a align="center" href="https://outlook.com/"> <img align="center" src="https://imgur.com/oPtKxVc.png"> Email </a> 
-<a align="center" href="https://discordapp.com/"> <img align="center" src="https://imgur.com/oveY3Cc.png"> Discord </a>
-<a align="center" href="https://www.whatsapp.com/"> <img align="center" src="https://imgur.com/emlsrF3.png"> WhatsApp </a>
-<a align="center" href="https://www.facebook.com/"> <img align="center" src="https://imgur.com/MWDKRf3.png"> Facebook </a>
-<a align="center" href="https://twitter.com/"> <img align="center" src="https://imgur.com/GEgqoA3.png"> Twitter </a>
-<a align="center" href="https://www.youtube.com/"> <img align="center" src="https://imgur.com/udDO54K.png"> YouTube </a>
-<a align="center" href="https://www.instagram.com/"> <img align="center" src="https://imgur.com/VzZN8oQ.png"> Instagram </a>
-<a align="center" href="https://github.com/"> <img align="center" src="https://imgur.com/0dhehst.png"> GitHub </a>
-<a align="center" href="https://linkedin.com/"> <img align="center" src="https://imgur.com/uQlleSf.png"> LinkedIn </a>
+<a align="center" href="https://outlook.com/"> 
+    <img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Mail.png"> Email 
+</a> 
+<a align="center" href="https://discordapp.com/"> 
+    <img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Discord.png"> Discord 
+</a>
+<a align="center" href="https://www.whatsapp.com/"> 
+    <img align="center" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Whatsapp.png"> WhatsApp 
+</a>
+<a align="center" href="https://www.facebook.com/"> 
+    <img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Facebook.png"> Facebook 
+</a>
+<a align="center" href="https://www.youtube.com/"> 
+    <img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Youtube.png"> YouTube 
+</a>
+<a align="center" href="https://www.instagram.com/"> 
+    <img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Instagram.png"> Instagram 
+</a>
+<a align="center" href="https://github.com/"> 
+    <img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png"> GitHub 
+</a>
+<a align="center" href="https://linkedin.com/"> 
+    <img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Linkedin.png"> LinkedIn 
+</a>
 </p>
 
 <!-- Extra (Footer) -->
