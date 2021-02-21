@@ -216,7 +216,7 @@ You can reach me out me and chat with me via the following platforms below.
 
 <!-- Extra (Footer) -->
 ---
-<img width="50%" align="right" alt="Github" src="https://imgur.com/g5vpjVO.png" />
+<img width="50%" align="right" alt="Github" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_002.png" />
 <h3>Build Your Dream</h3>
 <p align="left">Feel free to use elements from this repository on your own one or get inspired by it, also make sure to share ideas and other features that can make this repository better.</p>
 <p align="left">This <i>README</i> file is generated every 24 hours by an action process, last refresh: Wednesday, 9 January, 00:00 CET.</p><br><br><br>
