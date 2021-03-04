@@ -42,8 +42,9 @@
 ## About
 My name is _`Biyakuga Higashiri`_ and I am a freelance developer with a passion for user experience, user interfaces, games, tools, and in general, anything that can be coded.<br>
 Besides, I am one of the founders and the current owner of the group Nostalgia Community in the discord app.<br>
-We are doing amazing things there, such as developing tools to run old games from the 80s and 90s decades on modern computer  systems.<br>
-Moreover, Besides programming, I love spending time with friends and family. I can often be found together going out catching the latest movie, staying in playing games on the sofa, or planning a trip to someplace I've never been before.<br>
+We are doing amazing things there, such as developing tools to run old games from the 80s and 90s on modern computer systems.<br>
+Moreover, Besides programming, I love spending time with friends and family.
+I can often be found together going out catching the latest movie, staying in playing games on the sofa, or planning a trip to someplace I've never been before.<br>
 Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Versions File") file for all the changes in this repository and the [**License**](LICENSE.md) of this repository to understand its permissions and limitations.
 
 <!-- My Skills -->
