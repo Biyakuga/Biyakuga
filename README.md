@@ -113,6 +113,11 @@ Please make sure to check out my repository to find out more about my skills and
 </p>
 -->
 
+<!-- Programming Languages Statistics
+## Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biyakuga)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!-- Support Me -->
 ## Support
 Please consider supporting my work by donating a few bucks via the links below.
