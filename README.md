@@ -127,8 +127,12 @@ Please consider supporting my work by donating a few bucks via the links below.
     <img width="18%" alt="Buy me a coffee" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.png" />
   </a>
+  <a href="https://www.gofundme.com/" target="_blank">
+    <img width="18%" alt="Please GoFundMe" 
+    src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/GoFundMe.png" />
+  </a>
   <a href="https://www.patreon.com/" target="_blank">
-    <img width="18%" alt="Check my Patreon" 
+    <img width="18%" alt="Support on Patreon" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Patreon.png" />
   </a>
   <a href="https://www.paypal.com" target="_blank">
@@ -136,7 +140,7 @@ Please consider supporting my work by donating a few bucks via the links below.
       src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/PayPal.png" />
   </a>
   <a href="https://github.com/sponsors/" target="_blank">
-      <img width="18%" alt="Buy me a coffee" 
+      <img width="18%" alt="Sponsor Me" 
       src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Sponsor.png" />
   </a>
 </p>
