@@ -50,6 +50,7 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <!-- My Skills -->
 ## Skills
 <!-- Badges: https://shields.io/ -->
+<!-- https://simpleicons.org/ -->
 <p>
 <!-- Orange -->
 <img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
@@ -72,6 +73,7 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <img src="http://img.shields.io/badge/-Python-407cab?style=flat&logo=python&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-PostgreSql-31648c?style=flat&logo=postgresql&logoColor=ffffff" />
 <img src="http://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Jquery-0769AD?style=flat&logo=jQuery&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Windows-0078d6?style=flat&logo=windows&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Css-254bdd?style=flat&logo=css3&logoColor=ffffff" />
 <!-- Purple -->
