@@ -182,24 +182,28 @@ You can reach me out me and chat with me via the following platforms below.
     title="Icon 01 - YouTube"
     alt="Icon"> YouTube
 </a>
+    &nbsp;
 <a align="center" href="https://outlook.com/"> 
     <img align="center" high="32" width="32" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Mail.png" 
     title="Icon 02 - Email" 
     alt="Icon"> Email
 </a>
+    &nbsp;
 <a align="center" href="https://www.twitter.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Twitter.png" 
     title="Icon 03 - Twitter"
     alt="Icon"> WhatsApp
 </a>
+    &nbsp;
 <a align="center" href="https://www.whatsapp.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Whatsapp.png" 
     title="Icon 04 - Whatsapp"
     alt="Icon"> WhatsApp
 </a>
+    &nbsp;
 <a align="center" href="https://linkedin.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Linkedin.png" 
@@ -212,18 +216,21 @@ You can reach me out me and chat with me via the following platforms below.
     title="Icon 06 - Facebook"
     alt="Icon"> Facebook
 </a>
+    &nbsp;
 <a align="center" href="https://discordapp.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Discord.png" 
     title="Icon 07 - Discord"
     alt="Icon"> Discord
 </a>
+    &nbsp;
 <a align="center" href="https://www.instagram.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Instagram.png" 
     title="Icon 08 - Instagram"
     alt="Icon"> Instagram
 </a>
+    &nbsp;
 <a align="center" href="https://github.com/"> 
     <img align="center" high="32" width="32" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png" 
