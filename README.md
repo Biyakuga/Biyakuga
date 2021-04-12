@@ -210,6 +210,7 @@ You can reach me out me and chat with me via the following platforms below.
     title="Icon 05 - Linkedin"
     alt="Icon"> LinkedIn
 </a>
+    &nbsp;
 <a align="center" href="https://www.facebook.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Facebook.png" 
