@@ -239,7 +239,6 @@ You can reach me out me and chat with me via the following platforms below.
     alt="Icon"> GitHub
 </a>
 </p>
-<br>
 
 <!-- Extra (Footer) -->
 ---
