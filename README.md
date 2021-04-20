@@ -177,6 +177,7 @@ You can read more about the license of this repository below.
 You can reach me out me and chat with me via the following platforms below.
 <p>
     &nbsp;
+    &nbsp;
 <a align="center" href="https://www.youtube.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Youtube.png" 
