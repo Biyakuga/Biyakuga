@@ -180,63 +180,63 @@ You can reach me out me and chat with me via the following platforms below.
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Youtube.png" 
     title="Icon 01 - YouTube"
-    alt="Icon"> &nbsp; YouTube
+    alt="Icon"> YouTube
 </a>
     &nbsp;
 <a align="center" href="https://outlook.com/"> 
     <img align="center" high="32" width="32" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Mail.png" 
     title="Icon 02 - Email" 
-    alt="Icon"> &nbsp; Email
+    alt="Icon"> Email
 </a>
     &nbsp;
 <a align="center" href="https://www.twitter.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Twitter.png" 
     title="Icon 03 - Twitter"
-    alt="Icon"> &nbsp; Twitter
+    alt="Icon"> Twitter
 </a>
     &nbsp;
 <a align="center" href="https://www.whatsapp.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Whatsapp.png" 
     title="Icon 04 - Whatsapp"
-    alt="Icon"> &nbsp; WhatsApp
+    alt="Icon"> WhatsApp
 </a>
     &nbsp;
 <a align="center" href="https://linkedin.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Linkedin.png" 
     title="Icon 05 - Linkedin"
-    alt="Icon"> &nbsp; LinkedIn
+    alt="Icon"> LinkedIn
 </a>
     &nbsp;
 <a align="center" href="https://www.facebook.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Facebook.png" 
     title="Icon 06 - Facebook"
-    alt="Icon"> &nbsp; Facebook
+    alt="Icon"> Facebook
 </a>
     &nbsp;
 <a align="center" href="https://discordapp.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Discord.png" 
     title="Icon 07 - Discord"
-    alt="Icon"> &nbsp; Discord
+    alt="Icon"> Discord
 </a>
     &nbsp;
 <a align="center" href="https://www.instagram.com/"> 
     <img align="center" high="32" width="32"
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Instagram.png" 
     title="Icon 08 - Instagram"
-    alt="Icon"> &nbsp; Instagram
+    alt="Icon"> Instagram
 </a>
     &nbsp;
 <a align="center" href="https://github.com/"> 
     <img align="center" high="32" width="32" 
     src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png" 
     title="Icon 09 - GitHub"
-    alt="Icon"> &nbsp; GitHub
+    alt="Icon"> GitHub
 </a>
 </p>
 
