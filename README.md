@@ -226,15 +226,15 @@ You can reach me out me and chat with me via the following platforms below.
         title="Icon 07 - Discord"
         alt="Icon"> Discord
     </a>
-        &nbsp;
+</p>
+<p>
     <a align="center" href="https://www.instagram.com/"> 
         <img align="center" high="32" width="32"
         src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Instagram.png" 
         title="Icon 08 - Instagram"
         alt="Icon"> Instagram
     </a>
-</p>
-<p>
+        &nbsp;
     <a align="center" href="https://github.com/"> 
         <img align="center" high="32" width="32" 
         src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png" 
