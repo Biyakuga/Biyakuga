@@ -99,28 +99,20 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 | 1 | Biyakuga           | Html, Css and JavaScript | A General introduction |
 | 2 | RepositoryTemplate | Markdowns and Templates  | Template for projects  |
 
-<!-- Widgets Repository Version 01- https://github.com/anuraghazra/github-readme-stats -->
-<!--
-[![Biyakuga's Github Stats](https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=true&bg_color=5d5d5d&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac)](https://github.com/Biyakuga)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biyakuga&layout=compact&hide_border=true&bg_color=5d5d5d&langs_count=7&title_color=5094f0&text_color=e5e5e5&card_width=445)](https://github.com/Biyakuga)
--->
 
-<!-- Widgets Repository Version 02- https://github.com/anuraghazra/github-readme-stats -->
-<!--
+<!-- Programming Languages Statistics -->
+## Statistics
+General data about my activity and projects
+
+<!-- Widgets Repository - https://github.com/anuraghazra/github-readme-stats -->
 <p align=center>
     <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats">
        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
     </a>
-    <a href="https://github.com/Biyakuga" title="Most Used Languages">
-     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyakuga&layout=compact&hide_border=false&bg_color=0d1117&langs_count=5&title_color=5094f0&text_color=e5e5e5&card_width=370" />
-    </a>
+<!-- Widgets Repository - https://github-profile-summary-cards.vercel.app/demo.html -->
+    <img height=180 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biyakuga&theme=github_dark"/>
 </p>
--->
 
-<!-- Programming Languages Statistics
-## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biyakuga)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!-- Support Me -->
 ## Support
