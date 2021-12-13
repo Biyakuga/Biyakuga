@@ -40,7 +40,7 @@
 
 <!-- About Me -->
 ## About
-My name is _`Biyakuga Higashiri`_ and I am a freelance developer with a passion for user experience, user interfaces, games, tools, and in general, anything that can be coded.<br>
+My name is **`Biyakuga Higashiri`** and I am a freelance developer with a passion for user experience, user interfaces, games, tools, and in general, anything that can be coded.<br>
 Besides, I am one of the founders and the current owner of the group Nostalgia Community in the discord app.<br>
 We are doing amazing things there, such as developing tools to run old games from the 80s and 90s on modern computer systems.<br>
 Moreover, Besides programming, I love spending time with friends and family.
