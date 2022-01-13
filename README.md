@@ -80,6 +80,9 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
     <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-CSharp-2b0169?style=flat&logo=c-sharp&logoColor=ffffff" />
+    <!-- Pink -->
+    <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ededed" />
+    <img src="https://img.shields.io/badge/-StyledComponents-FF4088?style=flat&logo=styled-components&logoColor=ededed" />
     <!-- Black -->
     <img src="https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github&logoColor=ededed" />
     <img src="https://img.shields.io/badge/-Medium-121212?style=flat&logo=medium&logoColor=ededed" />
@@ -94,10 +97,11 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 </p>
 
 <!-- Table (Favorite Repository) -->
-| # | Repository         | Technology               | Purpose                |
-|---|--------------------|--------------------------|------------------------|
-| 1 | Biyakuga           | Html, Css and JavaScript | A General introduction |
-| 2 | RepositoryTemplate | Markdowns and Templates  | Template for projects  |
+| # | Repository          | Technology               | Purpose                       |
+|---|---------------------|--------------------------|-------------------------------|
+| 1 | Biyakuga            | Html, Css and JavaScript | A General introduction        |
+| 2 | RepositoryTemplate  | Markdowns and Templates  | Template for projects         |
+| 3 | Nostalgia Community | Old Games Projects       | Preservation and Development  |
 
 
 <!-- Programming Languages Statistics -->
