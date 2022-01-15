@@ -111,10 +111,11 @@ General data about my activity and projects
 <!-- Widgets Repository - https://github.com/anuraghazra/github-readme-stats -->
 <p align=center>
     <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats">
-       <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
+       <img height=175 width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
     </a>
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=biyakuga&theme=dark" width="40%" > -->
 <!-- Widgets Repository - https://github-profile-summary-cards.vercel.app/demo.html -->
-    <img height=180 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biyakuga&theme=github_dark"/>
+<!--     <img height=180 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biyakuga&theme=github_dark"/> -->
 </p>
 
 
@@ -151,7 +152,7 @@ You can read more about the license of this repository below.
 
     MIT License
     
-    Copyright (c) 2021 Biyakuga
+    Copyright (c) 2022 Biyakuga
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software
     and associated documentation files (the "Software"), to deal in the Software without restriction,
