@@ -111,9 +111,11 @@ General data about my activity and projects
 <!-- Widgets Repository - https://github.com/anuraghazra/github-readme-stats -->
 <p align=center>
     <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats">
-       <img height=175 width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
+       <img height=175 width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
     </a>
-<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=biyakuga&theme=dark" width="40%" > -->
+    <a>
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=biyakuga&theme=dark" width="48%" >
+    </a>
 <!-- Widgets Repository - https://github-profile-summary-cards.vercel.app/demo.html -->
 <!--     <img height=180 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biyakuga&theme=github_dark"/> -->
 </p>
