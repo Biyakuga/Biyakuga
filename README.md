@@ -108,16 +108,15 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 ## Statistics
 General data about my activity and projects
 
-<!-- Widgets Repository - https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <p align=center>
     <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats">
-       <img height=175 width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
+       <img height=175 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
     </a>
-    <a>
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=biyakuga&theme=dark" width="48%" >
+<!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <a  href="https://github.com/Biyakuga" title="Biyakuga Github Streak">
+        <img height=175 width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=0E1117&border=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=B95B94&fire=B95B94&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats">
     </a>
-<!-- Widgets Repository - https://github-profile-summary-cards.vercel.app/demo.html -->
-<!--     <img height=180 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biyakuga&theme=github_dark"/> -->
 </p>
 
 
