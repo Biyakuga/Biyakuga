@@ -246,7 +246,7 @@ You can reach me out me and chat with me via the following platforms below.
 <img width="50%" align="right" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_002.png" alt="Github" />
 <h3>Build Your Dream</h3>
 <!-- GitHub Auto Text: https://readme-typing-svg.herokuapp.com/demo/ -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%23DA69AC&height=25&lines=The+dream+is+my+wings;The+direction+is+to+the+sky" alt="Github"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23DA69AC&width=350&height=25&lines=The+dream+is+my+wings;The+direction+is+to+the+sky" alt="Github"/>
 <p align="left">Feel free to use elements from this repository on your own one or get inspired by it, also make sure to share ideas and other features that can make this repository better.</p>
 <p align="left">This <i>README</i> file is generated every 24 hours by an action process, last refresh: Wednesday, 1 January, 00:00 CET.</p><br><br><br>
 <p align="center"><b>Biyakuga Higashiri © Copyright 2022 All Rights Reserved.</b></p>
