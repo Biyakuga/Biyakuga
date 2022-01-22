@@ -111,7 +111,11 @@ Selected videos to watch and have fun while reading this readme
 ## Audios
 Selected audios to listen and relax while reading this readme
 
-https://user-images.githubusercontent.com/67515021/150615917-4de675dc-a156-44e2-8d83-92f37dde63f3.mp4
+https://user-images.githubusercontent.com/67515021/150619124-1b756a52-cc1a-4b52-8071-df6e44396bcf.mp4
+
+https://user-images.githubusercontent.com/67515021/150619134-11f49cec-ee54-4ad9-a7c2-865a30e5f77e.mp4
+
+https://user-images.githubusercontent.com/67515021/150619137-5b4d018b-aa49-4975-9509-9293c879bebc.mp4
 
 <!-- Programming Languages Statistics -->
 ## Statistics
