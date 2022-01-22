@@ -107,8 +107,6 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 ## Videos
 Selected videos to watch and have fun while reading this readme
 
-https://user-images.githubusercontent.com/67515021/150621487-ed0cd8f0-029a-48f5-828c-d9d591241b3d.mp4
-
 <!-- Selected Audios -->
 ## Audios
 Selected audios to listen and relax while reading this readme
