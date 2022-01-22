@@ -103,6 +103,15 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 | 2 | RepositoryTemplate  | Markdowns and Templates  | Template for projects         |
 | 3 | Nostalgia Community | Old Games Projects       | Preservation and Development  |
 
+<!-- Selected Videos -->
+## Videos
+Selected videos to watch and have fun while reading this readme
+
+<!-- Selected Audios -->
+## Audios
+Selected audios to listen and relax while reading this readme
+
+https://user-images.githubusercontent.com/67515021/150615917-4de675dc-a156-44e2-8d83-92f37dde63f3.mp4
 
 <!-- Programming Languages Statistics -->
 ## Statistics
