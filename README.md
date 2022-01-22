@@ -107,7 +107,7 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 ## Videos
 Selected videos to watch and have fun while reading this readme
 
-https://user-images.githubusercontent.com/67515021/150620491-51bb9858-6839-4b90-a360-5532deee8019.mp4
+https://user-images.githubusercontent.com/67515021/150621487-ed0cd8f0-029a-48f5-828c-d9d591241b3d.mp4
 
 <!-- Selected Audios -->
 ## Audios
@@ -133,7 +133,6 @@ General data about my activity and projects
         <img height=175 width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=0E1117&border=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=B95B94&fire=B95B94&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats">
     </a>
 </p>
-
 
 <!-- Support Me -->
 ## Support
