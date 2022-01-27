@@ -1,4 +1,5 @@
-<!-- Optional Readme Generator: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- Profile Readme Generator: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- Profile Readme Idea https://github.com/abhisheknaiidu/awesome-github-profile-readme#license -->
 
 <!-- Logo (Header) -->
 <p align="center">
