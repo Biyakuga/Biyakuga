@@ -135,7 +135,7 @@ General data about my activity and projects
     </a>
 <!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
     <a href="https://github.com/biyakuga/github-readme-activity-graph" title="Biyakuga Higashiri's Activity Graph">
-        <img width="98.5%" align="center" alt="Biyakuga Higashiri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=biyakuga&bg_color=0D1117&color=B95B94&line=B95B94&point=FFFFFF&hide_border=false" />
+        <img width="98.5%" alt="Biyakuga Higashiri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=biyakuga&bg_color=0D1117&color=B95B94&line=B95B94&point=FFFFFF&hide_border=false" />
     </a>
 </p>
 
