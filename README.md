@@ -127,15 +127,18 @@ General data about my activity and projects
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <p align=center>
     <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats">
-       <img height=175 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
+       <img width="48.0%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
     </a>
+    &nbsp;
 <!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
     <a  href="https://github.com/Biyakuga" title="Biyakuga Github Streak">
-        <img height=175 width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=0E1117&border=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=B95B94&fire=B95B94&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats">
+        <img width="48.0%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=0E1117&border=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=B95B94&fire=B95B94&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats">
     </a>
-<!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
+</p>
+<p align=center>
+<!-- GitHub Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <a href="https://github.com/biyakuga/github-readme-activity-graph" title="Biyakuga Higashiri's Activity Graph">
-        <img width="98.5%" alt="Biyakuga Higashiri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=biyakuga&bg_color=0D1117&color=B95B94&line=B95B94&point=FFFFFF&hide_border=false" />
+        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=biyakuga&bg_color=0D1117&color=B95B94&line=B95B94&point=FFFFFF&hide_border=false" />
     </a>
 </p>
 
