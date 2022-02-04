@@ -134,6 +134,10 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
     </a>
 </p>
 
+<!-- Selected Images -->
+<!-- ## Images -->
+<!-- Selected Images to look at and have inspiration while reading this readme -->
+
 <!-- Selected Videos -->
 <!-- ## Videos -->
 <!-- Selected videos to watch and have fun while reading this readme -->
