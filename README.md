@@ -11,6 +11,7 @@
 </p>
 
 <!-- Badges: https://shields.io/ -->
+<!-- Icons: https://simpleicons.org/ -->
 <p align="center">
     <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=red&logo=github&label=views"
     title="Badge 00 - GitHub Profile Views"
@@ -51,9 +52,9 @@ I can often be found together going out catching the latest movie, staying in pl
 Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Versions File") file for all the changes in this repository and the [**License**](LICENSE.md) of this repository to understand its permissions and limitations.
 
 <!-- My Skills -->
-## Skills
 <!-- Badges: https://shields.io/ -->
-<!-- https://simpleicons.org/ -->
+<!-- Icons: https://simpleicons.org/ -->
+## Skills
 <p>
     <!-- Orange -->
     <img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
@@ -107,9 +108,10 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 | 3 | Nostalgia Community | Old Games Projects       | Preservation and Development  |
 
 <!-- Buttons https://custom-icon-badges.herokuapp.com/ -->
+<!-- Icons https://primer.style/octicons/ -->
 <p align="left">
     <a href="https://github.com/Biyakuga">
-      <img alt="Overview" title="Overview" src="https://custom-icon-badges.herokuapp.com/badge/-Overview-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
+      <img alt="Overview" title="Overview" src="https://custom-icon-badges.herokuapp.com/badge/-Overview-B95B94?style=for-the-badge&logoColor=white&logo=book" />
     </a>
     &nbsp;
     <a href="https://github.com/Biyakuga?tab=repositories">
@@ -117,11 +119,11 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
     </a>
     &nbsp;
     <a href="https://github.com/Biyakuga?tab=projects&type=beta">
-      <img alt="Projects" title="Projects" src="https://custom-icon-badges.herokuapp.com/badge/-Projects-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
+      <img alt="Projects" title="Projects" src="https://custom-icon-badges.herokuapp.com/badge/-Projects-B95B94?style=for-the-badge&logoColor=white&logo=table" />
     </a>
     &nbsp;
     <a href="https://github.com/Biyakuga?tab=packages">
-      <img alt="Packages" title="Packages" src="https://custom-icon-badges.herokuapp.com/badge/-Packages-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
+      <img alt="Packages" title="Packages" src="https://custom-icon-badges.herokuapp.com/badge/-Packages-B95B94?style=for-the-badge&logoColor=white&logo=package" />
     </a>
 </p>
 
