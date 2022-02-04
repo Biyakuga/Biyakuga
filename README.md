@@ -108,13 +108,21 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 
 <!-- Buttons https://custom-icon-badges.herokuapp.com/ -->
 <p align="left">
-  <a href="https://github.com/Biyakuga">
+    <a href="https://github.com/Biyakuga">
       <img alt="Overview" title="Overview" src="https://custom-icon-badges.herokuapp.com/badge/-Overview-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Biyakuga?tab=repositories">
+    </a>
+    &nbsp;
+    <a href="https://github.com/Biyakuga?tab=repositories">
       <img alt="Repositories" title="Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Repositories-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
-  </a>
+    </a>
+    &nbsp;
+    <a href="https://github.com/Biyakuga?tab=projects&type=beta">
+      <img alt="Projects" title="Projects" src="https://custom-icon-badges.herokuapp.com/badge/-Projects-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Biyakuga?tab=packages">
+      <img alt="Packages" title="Packages" src="https://custom-icon-badges.herokuapp.com/badge/-Packages-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
+    </a>
 </p>
 
 <!-- Selected Videos -->
@@ -279,7 +287,7 @@ You can reach me out me and chat with me via the following platforms below.
 <img width="50%" align="right" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_002.png" alt="Github" />
 <h3>Build Your Dream</h3>
 <!-- GitHub Auto Text: https://readme-typing-svg.herokuapp.com/demo/ -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%23DA69AC&width=350&height=25&lines=The+dream+is+my+wings;The+direction+is+to+the+sky" alt="Github"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23DA69AC&width=350&height=25&lines=The+dream+is+your+wings;The+direction+is+to+the+sky" alt="Github"/>
 <p align="left">Feel free to use elements from this repository on your own one or get inspired by it, also make sure to share ideas and other features that can make this repository better.</p>
 <p align="left">This <i>README</i> file is generated every 24 hours by an action process, last refresh: Wednesday, 1 January, 00:00 CET.</p><br><br><br>
 <p align="center"><b>Biyakuga Higashiri © Copyright 2022 All Rights Reserved.</b></p>
