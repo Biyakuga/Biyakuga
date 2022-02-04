@@ -135,18 +135,23 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 </p>
 
 <!-- Selected Videos -->
-## Videos
-Selected videos to watch and have fun while reading this readme
+<!-- ## Videos -->
+<!-- Selected videos to watch and have fun while reading this readme -->
 
 <!-- Selected Audios -->
 ## Audios
 Selected audios to listen and relax while reading this readme
 
+<details>
+<summary>Melodies List</summary>
+
 https://user-images.githubusercontent.com/67515021/150619124-1b756a52-cc1a-4b52-8071-df6e44396bcf.mp4
-
+    
 https://user-images.githubusercontent.com/67515021/150619134-11f49cec-ee54-4ad9-a7c2-865a30e5f77e.mp4
-
+    
 https://user-images.githubusercontent.com/67515021/150619137-5b4d018b-aa49-4975-9509-9293c879bebc.mp4
+
+</details>
 
 <!-- Programming Languages Statistics -->
 ## Statistics
