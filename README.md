@@ -106,6 +106,17 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 | 2 | RepositoryTemplate  | Markdowns and Templates  | Template for projects         |
 | 3 | Nostalgia Community | Old Games Projects       | Preservation and Development  |
 
+<!-- Buttons https://custom-icon-badges.herokuapp.com/ -->
+<p align="left">
+  <a href="https://github.com/Biyakuga">
+      <img alt="Overview" title="Overview" src="https://custom-icon-badges.herokuapp.com/badge/-Overview-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Biyakuga?tab=repositories">
+      <img alt="Repositories" title="Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Repositories-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
+  </a>
+</p>
+
 <!-- Selected Videos -->
 ## Videos
 Selected videos to watch and have fun while reading this readme
