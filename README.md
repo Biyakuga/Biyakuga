@@ -56,21 +56,25 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <!-- Icons: https://simpleicons.org/ -->
 ## Skills
 <p>
-    <!-- Orange -->
-    <img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Git-ec5a3d?style=flat&logo=git&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Html-dd4b25?style=flat&logo=html5&logoColor=ffffff" />
     <!-- Red -->
     <img src="https://img.shields.io/badge/-MsSql-cc2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Java-ec2024?style=flat&logo=java&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Angular-d6002f?style=flat&logo=angular&logoColor=ffffff" />
-    <!-- Yellow -->
-    <img src="https://img.shields.io/badge/-JavaScript-d5b422?style=flat&logo=javascript&logoColor=ffffff" />
+    <!-- Orange -->
     <img src="https://img.shields.io/badge/-MySql-f08d00?style=flat&logo=mysql&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Xampp-fb7a24?style=flat&logo=xampp&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Git-ec5a3d?style=flat&logo=git&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Html-dd4b25?style=flat&logo=html5&logoColor=ffffff" />
+    <!-- Yellow -->
+    <img src="https://img.shields.io/badge/-Firebase-C2A633?style=flat&logo=firebase&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-JavaScript-d5b422?style=flat&logo=javascript&logoColor=ffffff" />
     <!-- Green -->
+    <img src="http://img.shields.io/badge/-Shopify-76B900?style=flat&logo=shopify&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Spring-6db33f?style=flat&logo=spring&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-MongoDb-4ca449?style=flat&logo=mongodb&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Node.js-3c873a?style=flat&logo=node.js&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-NodeJs-3c873a?style=flat&logo=node.js&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Vue-41b883?style=flat&logo=vue.js&logoColor=ffffff" />
     <!-- Blue -->
     <img src="https://img.shields.io/badge/-SqlLite-6cb9e1?style=flat&logo=sqlite&logoColor=ffffff" />
@@ -86,8 +90,11 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
     <img src="http://img.shields.io/badge/-CSharp-2b0169?style=flat&logo=c-sharp&logoColor=ffffff" />
     <!-- Pink -->
     <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ededed" />
+    <img src="https://img.shields.io/badge/-Azure-CB2E6D?style=flat&logo=azure&logoColor=ededed" />
     <img src="https://img.shields.io/badge/-StyledComponents-FF4088?style=flat&logo=styled-components&logoColor=ededed" />
     <!-- Black -->
+    <img src="https://img.shields.io/badge/-Unity-A6A9AA?style=flat&logo=unity&logoColor=ededed" />
+    <img src="https://img.shields.io/badge/-Microsoft-525252?style=flat&logo=microsoft&logoColor=ededed" />
     <img src="https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github&logoColor=ededed" />
     <img src="https://img.shields.io/badge/-Medium-121212?style=flat&logo=medium&logoColor=ededed" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ededed" />
