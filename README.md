@@ -13,31 +13,31 @@
 <!-- Badges: https://shields.io/ -->
 <!-- Icons: https://simpleicons.org/ -->
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=red&logo=github&label=views"
+    <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=github&label=views"
     title="Badge 00 - GitHub Profile Views"
     alt="Badge" />
-    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?logo=GitHub"
+    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?color=B95B94&logo=GitHub"
     title="Badge 01 - GitHub All Releases"
     alt="Badge" />
-    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?logo=GitHub"
+    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
     title="Badge 02 - GitHub Contributors"
     alt="Badge" />
-    <img src="https://img.shields.io/github/license/Biyakuga/Biyakuga?logo=GitHub"
+    <img src="https://img.shields.io/github/license/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
     title="Badge 03 - GitHub License"
     alt="Badge" />
-    <img src="https://img.shields.io/github/issues/Biyakuga/Biyakuga?logo=GitHub"
+    <img src="https://img.shields.io/github/issues/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
     title="Badge 04 - GitHub Issues"
     alt="Badge" />
-    <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?logo=GitHub"
+    <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
     title="Badge 05 - GitHub All Fforks"
     alt="Badge" />
-    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?logo=GitHub"
+    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
     title="Badge 06 - GitHub Release By Date"
     alt="Badge" />
-    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?label=size&logo=GitHub"
+    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?color=B95B94&label=size&logo=GitHub"
     title="Badge 07 - GitHub Repo Size"
     alt="Badge" />
-    <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?logo=GitHub"
+    <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
     title="Badge 08 - GitHub Repo Stars"
     alt="Badge" />
 </p>
@@ -57,10 +57,10 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 ## Skills
 <p>
     <!-- Red -->
-    <img src="https://img.shields.io/badge/-MsSql-cc2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Java-ec2024?style=flat&logo=java&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Angular-d6002f?style=flat&logo=angular&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-MsSql-3e739e?style=flat&logo=microsoft-sql-server&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Java-3e739e?style=flat&logo=java&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-YouTube-3e739e?style=flat&logo=youtube&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Angular-3e739e?style=flat&logo=angular&logoColor=ffffff" />
     <!-- Orange -->
     <img src="https://img.shields.io/badge/-MySql-f08d00?style=flat&logo=mysql&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Xampp-fb7a24?style=flat&logo=xampp&logoColor=ffffff" />
