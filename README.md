@@ -62,42 +62,42 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
     <img src="https://img.shields.io/badge/-YouTube-3e739e?style=flat&logo=youtube&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Angular-3e739e?style=flat&logo=angular&logoColor=ffffff" />
     <!-- Orange -->
-    <img src="https://img.shields.io/badge/-MySql-f08d00?style=flat&logo=mysql&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Xampp-fb7a24?style=flat&logo=xampp&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Git-ec5a3d?style=flat&logo=git&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Html-dd4b25?style=flat&logo=html5&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-MySql-3e739e?style=flat&logo=mysql&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Xampp-3e739e?style=flat&logo=xampp&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Postman-3e739e?style=flat&logo=postman&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Git-3e739e?style=flat&logo=git&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Html-3e739e?style=flat&logo=html5&logoColor=ffffff" />
     <!-- Yellow -->
-    <img src="https://img.shields.io/badge/-Firebase-C2A633?style=flat&logo=firebase&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-JavaScript-d5b422?style=flat&logo=javascript&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Firebase-3e739e?style=flat&logo=firebase&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-JavaScript-3e739e?style=flat&logo=javascript&logoColor=ffffff" />
     <!-- Green -->
-    <img src="http://img.shields.io/badge/-Shopify-76B900?style=flat&logo=shopify&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Spring-6db33f?style=flat&logo=spring&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-MongoDb-4ca449?style=flat&logo=mongodb&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-NodeJs-3c873a?style=flat&logo=node.js&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Vue-41b883?style=flat&logo=vue.js&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Shopify-3e739e?style=flat&logo=shopify&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Spring-3e739e?style=flat&logo=spring&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-MongoDb-3e739e?style=flat&logo=mongodb&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-NodeJs-3e739e?style=flat&logo=node.js&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Vue-3e739e?style=flat&logo=vue.js&logoColor=ffffff" />
     <!-- Blue -->
-    <img src="https://img.shields.io/badge/-SqlLite-6cb9e1?style=flat&logo=sqlite&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-Python-407cab?style=flat&logo=python&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-PostgreSql-31648c?style=flat&logo=postgresql&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Jquery-0769AD?style=flat&logo=jQuery&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Windows-0078d6?style=flat&logo=windows&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Css-254bdd?style=flat&logo=css3&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-SqlLite-3e739e?style=flat&logo=sqlite&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-Python-3e739e?style=flat&logo=python&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-PostgreSql-3e739e?style=flat&logo=postgresql&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-TypeScript-3e739e?style=flat&logo=typescript&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Jquery-3e739e?style=flat&logo=jQuery&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Windows-3e739e?style=flat&logo=windows&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Css-3e739e?style=flat&logo=css3&logoColor=ffffff" />
     <!-- Purple -->
-    <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=ffffff" />
-    <img src="http://img.shields.io/badge/-CSharp-2b0169?style=flat&logo=c-sharp&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Bootstrap-3e739e?style=flat&logo=bootstrap&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Heroku-3e739e?style=flat&logo=heroku&logoColor=ffffff" />
+    <img src="http://img.shields.io/badge/-CSharp-3e739e?style=flat&logo=c-sharp&logoColor=ffffff" />
     <!-- Pink -->
-    <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ededed" />
-    <img src="https://img.shields.io/badge/-Azure-CB2E6D?style=flat&logo=azure&logoColor=ededed" />
-    <img src="https://img.shields.io/badge/-StyledComponents-FF4088?style=flat&logo=styled-components&logoColor=ededed" />
+    <img src="https://img.shields.io/badge/-Sass-3e739e?style=flat&logo=sass&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Azure-3e739e?style=flat&logo=azure&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-StyledComponents-3e739e?style=flat&logo=styled-components&logoColor=ffffff" />
     <!-- Black -->
-    <img src="https://img.shields.io/badge/-Unity-A6A9AA?style=flat&logo=unity&logoColor=ededed" />
-    <img src="https://img.shields.io/badge/-Microsoft-525252?style=flat&logo=microsoft&logoColor=ededed" />
-    <img src="https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github&logoColor=ededed" />
-    <img src="https://img.shields.io/badge/-Medium-121212?style=flat&logo=medium&logoColor=ededed" />
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ededed" />
+    <img src="https://img.shields.io/badge/-Unity-3e739e?style=flat&logo=unity&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Microsoft-3e739e?style=flat&logo=microsoft&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-GitHub-3e739e?style=flat&logo=github&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Medium-3e739e?style=flat&logo=medium&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-React-3e739e?style=flat&logo=react&logoColor=ffffff" />
 </p>
 <p>
     The list above shows the programming languages, frameworks, databases, software, and technologies I had experience with within some of my projects and studies in recent    
