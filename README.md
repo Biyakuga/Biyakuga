@@ -292,7 +292,7 @@ You can reach me out me and chat with me via the following platforms below.
         alt="Icon"> Instagram
     </a>
         &nbsp; &nbsp;
-    <a align="center" href="https://github.com/"> 
+    <a align="center" href="https://github.com/" color> 
         <img align="center" high="32" width="32" 
         src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png" 
         title="Icon 09 - GitHub"
