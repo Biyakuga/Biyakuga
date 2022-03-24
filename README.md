@@ -56,27 +56,22 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <!-- Icons: https://simpleicons.org/ -->
 ## Skills
 <p>
-    <!-- Red -->
     <img src="https://img.shields.io/badge/-MsSql-3e739e?style=flat&logo=microsoft-sql-server&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Java-3e739e?style=flat&logo=java&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-YouTube-3e739e?style=flat&logo=youtube&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Angular-3e739e?style=flat&logo=angular&logoColor=ffffff" />
-    <!-- Orange -->
     <img src="https://img.shields.io/badge/-MySql-3e739e?style=flat&logo=mysql&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Xampp-3e739e?style=flat&logo=xampp&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Postman-3e739e?style=flat&logo=postman&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Git-3e739e?style=flat&logo=git&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Html-3e739e?style=flat&logo=html5&logoColor=ffffff" />
-    <!-- Yellow -->
     <img src="https://img.shields.io/badge/-Firebase-3e739e?style=flat&logo=firebase&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-JavaScript-3e739e?style=flat&logo=javascript&logoColor=ffffff" />
-    <!-- Green -->
     <img src="http://img.shields.io/badge/-Shopify-3e739e?style=flat&logo=shopify&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Spring-3e739e?style=flat&logo=spring&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-MongoDb-3e739e?style=flat&logo=mongodb&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-NodeJs-3e739e?style=flat&logo=node.js&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Vue-3e739e?style=flat&logo=vue.js&logoColor=ffffff" />
-    <!-- Blue -->
     <img src="https://img.shields.io/badge/-SqlLite-3e739e?style=flat&logo=sqlite&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Python-3e739e?style=flat&logo=python&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-PostgreSql-3e739e?style=flat&logo=postgresql&logoColor=ffffff" />
@@ -84,15 +79,12 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
     <img src="https://img.shields.io/badge/-Jquery-3e739e?style=flat&logo=jQuery&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Windows-3e739e?style=flat&logo=windows&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Css-3e739e?style=flat&logo=css3&logoColor=ffffff" />
-    <!-- Purple -->
     <img src="https://img.shields.io/badge/-Bootstrap-3e739e?style=flat&logo=bootstrap&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Heroku-3e739e?style=flat&logo=heroku&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-CSharp-3e739e?style=flat&logo=c-sharp&logoColor=ffffff" />
-    <!-- Pink -->
     <img src="https://img.shields.io/badge/-Sass-3e739e?style=flat&logo=sass&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Azure-3e739e?style=flat&logo=azure&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-StyledComponents-3e739e?style=flat&logo=styled-components&logoColor=ffffff" />
-    <!-- Black -->
     <img src="https://img.shields.io/badge/-Unity-3e739e?style=flat&logo=unity&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Microsoft-3e739e?style=flat&logo=microsoft&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-GitHub-3e739e?style=flat&logo=github&logoColor=ffffff" />
@@ -186,23 +178,23 @@ Please consider supporting my work by donating a few bucks via the links below.
 <p align="center">
     <a href="https://www.buymeacoffee.com/" target="_blank">
         <img width="18%" alt="Buy me a coffee" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.png" />
+        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.svg" />
     </a> &nbsp;
     <a href="https://www.gofundme.com/" target="_blank">
         <img width="18%" alt="Please GoFundMe" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/GoFundMe.png" />
+        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/GoFundMe.svg" />
      </a> &nbsp;
     <a href="https://www.patreon.com/" target="_blank">
         <img width="18%" alt="Support on Patreon" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Patreon.png" />
+        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Patreon.svg" />
      </a> &nbsp;
     <a href="https://www.paypal.com" target="_blank">
           <img width="18%" alt="Donate with Paypal" 
-          src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/PayPal.png" />
+          src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/PayPal.svg" />
     </a> &nbsp;
     <a href="https://github.com/sponsors/" target="_blank">
           <img width="18%" alt="Sponsor Me" 
-          src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Sponsor.png" />
+          src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Sponsor.svg" />
     </a>
 </p>
 
