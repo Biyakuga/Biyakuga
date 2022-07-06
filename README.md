@@ -13,9 +13,9 @@
 <!-- Badges: https://shields.io/ -->
 <!-- Icons: https://simpleicons.org/ -->
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=github&label=views"
+<!--     <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=github&label=views"
     title="Badge 00 - GitHub Profile Views"
-    alt="Badge" />
+    alt="Badge" /> -->
     <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?color=B95B94&logo=GitHub"
     title="Badge 01 - GitHub All Releases"
     alt="Badge" />
