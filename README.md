@@ -46,6 +46,12 @@
     <img src="https://img.shields.io/github/followers/Biyakuga?color=B95B94&logo=GitHub"
     title="Badge 10 - GitHub All Followers"
     alt="Badge" />
+    <img src="https://img.shields.io/github/languages/count/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    title="Badge 11 - GitHub Repo Languages"
+    alt="Badge" />
+    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    title="Badge 12 - GitHub Repo Contributors"
+    alt="Badge" />
 </p>
 
 <!-- About Me -->
