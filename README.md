@@ -178,9 +178,8 @@ General data about my activity and projects
 </p>
 <p align=center>
 <!-- GitHub Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <a href="https://github.com/biyakuga/github-readme-activity-graph" title="Biyakuga Higashiri's Activity Graph">
-        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=biyakuga&bg_color=0D1117&color=B95B94&line=B95B94&point=FFFFFF&hide_border=false" />
-    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=biyakuga&amp;bg_color=0D1117&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=false" alt="Ashutosh&#39;s github activity graph">     </a>
 </p>
 
 <!-- Support Me -->
