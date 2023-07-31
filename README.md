@@ -148,7 +148,7 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 
 <!-- Selected Audios -->
 ## Audios
-Selected audios to listen and relax while reading this readme
+Selected audio to listen and relax while reading this readme
 
 <details>
 <summary>Melodies List</summary>
@@ -179,7 +179,7 @@ General data about my activity and projects
 <p align=center>
 <!-- GitHub Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=biyakuga&amp;bg_color=0D1117&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=false" alt="Ashutosh&#39;s github activity graph">     </a>
+        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=0D1117&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=false" alt="Ashutosh&#39;s github activity graph">     </a>
 </p>
 
 <!-- Support Me -->
