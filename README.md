@@ -16,40 +16,40 @@
 <!--     <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=github&label=views"
     title="Badge 00 - GitHub Profile Views"
     alt="Badge" /> -->
-    <img src="https://img.shields.io/github/watchers/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/watchers/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 01 - GitHub All Watchers"
     alt="Badge" />
-    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?style=flat&color=B95B94&logo=GitHub"
     title="Badge 02 - GitHub All Releases"
     alt="Badge" />
-    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 03 - GitHub Contributors"
     alt="Badge" />
-    <img src="https://img.shields.io/github/license/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/license/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 04 - GitHub License"
     alt="Badge" />
-    <img src="https://img.shields.io/github/issues/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/issues/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 05 - GitHub Issues"
     alt="Badge" />
-    <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 06 - GitHub All Fforks"
     alt="Badge" />
-    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 07 - GitHub Release By Date"
     alt="Badge" />
-    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?color=B95B94&label=size&logo=GitHub"
+    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?style=flat&color=B95B94&label=size&logo=GitHub"
     title="Badge 08 - GitHub Repo Size"
     alt="Badge" />
-    <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 09 - GitHub Repo Stars"
     alt="Badge" />
-    <img src="https://img.shields.io/github/followers/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/followers/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 10 - GitHub All Followers"
     alt="Badge" />
-    <img src="https://img.shields.io/github/languages/count/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/languages/count/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 11 - GitHub Repo Languages"
     alt="Badge" />
-    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
     title="Badge 12 - GitHub Repo Contributors"
     alt="Badge" />
 </p>
