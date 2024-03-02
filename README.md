@@ -112,11 +112,11 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 </p>
 
 <!-- Table (Favorite Repository) -->
-| # | Repository          | Technology               | Purpose                       |
-|---|---------------------|--------------------------|-------------------------------|
-| 1 | Biyakuga            | Html, Css and JavaScript | A General introduction        |
-| 2 | RepositoryTemplate  | Markdowns and Templates  | Template for projects         |
-| 3 | Nostalgia Community | Old Games Projects       | Preservation and Development  |
+| # | Repository          | Technology                | Purpose                       |
+|---|---------------------|---------------------------|-------------------------------|
+| 1 | Biyakuga            | Html, Css and JavaScript  | A General introduction        |
+| 2 | Repository Template | Markdowns and Templates   | Template for projects         |
+| 3 | Nostalgia Community | Old Games Projects        | Preservation and Development  |
 
 <!-- Buttons https://custom-icon-badges.herokuapp.com/ -->
 <!-- Icons https://primer.style/octicons/ -->
