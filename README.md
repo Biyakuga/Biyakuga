@@ -13,43 +13,40 @@
 <!-- Badges: https://shields.io/ -->
 <!-- Icons: https://simpleicons.org/ -->
 <p align="center">
-<!--     <img src="https://badges.pufler.dev/visits/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=github&label=views"
-    title="Badge 00 - GitHub Profile Views"
-    alt="Badge" /> -->
-    <img src="https://img.shields.io/github/watchers/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/watchers/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 01 - GitHub All Watchers"
     alt="Badge" />
-    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/downloads/Biyakuga/Biyakuga/total?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 02 - GitHub All Releases"
     alt="Badge" />
-    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 03 - GitHub Contributors"
     alt="Badge" />
-    <img src="https://img.shields.io/github/license/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/license/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 04 - GitHub License"
     alt="Badge" />
-    <img src="https://img.shields.io/github/issues/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/issues/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 05 - GitHub Issues"
     alt="Badge" />
-    <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/forks/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 06 - GitHub All Fforks"
     alt="Badge" />
-    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/v/release/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 07 - GitHub Release By Date"
     alt="Badge" />
-    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?style=flat&color=B95B94&label=size&logo=GitHub"
+    <img src="https://img.shields.io/github/repo-size/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&label=size&logo=GitHub"
     title="Badge 08 - GitHub Repo Size"
     alt="Badge" />
-    <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/stars/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 09 - GitHub Repo Stars"
     alt="Badge" />
-    <img src="https://img.shields.io/github/followers/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/followers/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 10 - GitHub All Followers"
     alt="Badge" />
-    <img src="https://img.shields.io/github/languages/count/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/languages/count/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 11 - GitHub Repo Languages"
     alt="Badge" />
-    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?style=flat&color=B95B94&logo=GitHub"
+    <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 12 - GitHub Repo Contributors"
     alt="Badge" />
 </p>
@@ -168,18 +165,18 @@ General data about my activity and projects
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <p align=center>
     <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats">
-       <img width="48.0%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=false&bg_color=0d1117&title_color=da69ac&text_color=e5e5e5&icon_color=da69ac" />
+       <img width="48.0%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=true&bg_color=transparent&title_color=B95B94&text_color=111111&icon_color=B95B94" />
     </a>
     &nbsp;
 <!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
     <a  href="https://github.com/Biyakuga" title="Biyakuga Github Streak">
-        <img width="48.0%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=0E1117&border=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=B95B94&fire=B95B94&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats">
+        <img width="48.0%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=transparent&border=transparent&stroke=B95B94&sideNums=111111&currStreakNum=111111&ring=B95B94&fire=B95B94&currStreakLabel=111111&sideLabels=111111&dates=888888)](https://git.io/streak-stats">
     </a>
 </p>
 <p align=center>
 <!-- GitHub Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=0D1117&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=false" alt="Ashutosh&#39;s github activity graph">     </a>
+        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=transparent&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph">     </a>
 </p>
 
 <!-- Support Me -->
