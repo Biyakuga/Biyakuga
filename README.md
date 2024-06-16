@@ -118,21 +118,13 @@ Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Ver
 <!-- Buttons https://custom-icon-badges.herokuapp.com/ -->
 <!-- Icons https://primer.style/octicons/ -->
 <p align="left">
-    <a href="https://github.com/Biyakuga">
-      <img alt="Overview" title="Overview" src="https://custom-icon-badges.herokuapp.com/badge/-Overview-B95B94?style=for-the-badge&logoColor=white&logo=book" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Biyakuga?tab=repositories">
-      <img alt="Repositories" title="Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Repositories-B95B94?style=for-the-badge&logoColor=white&logo=repo" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Biyakuga?tab=projects&type=beta">
-      <img alt="Projects" title="Projects" src="https://custom-icon-badges.herokuapp.com/badge/-Projects-B95B94?style=for-the-badge&logoColor=white&logo=table" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Biyakuga?tab=packages">
-      <img alt="Packages" title="Packages" src="https://custom-icon-badges.herokuapp.com/badge/-Packages-B95B94?style=for-the-badge&logoColor=white&logo=package" />
-    </a>
+    <a href="https://github.com/Biyakuga"><img alt="Overview" title="Overview" src="https://custom-icon-badges.herokuapp.com/badge/-Overview-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
+    &ensp;
+    <a href="https://github.com/Biyakuga?tab=repositories"><img alt="Repositories" title="Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Repositories-B95B94?style=for-the-badge&logoColor=white&logo=repo" /></a>
+    &ensp;
+    <a href="https://github.com/Biyakuga?tab=projects&type=beta"><img alt="Projects" title="Projects" src="https://custom-icon-badges.herokuapp.com/badge/-Projects-B95B94?style=for-the-badge&logoColor=white&logo=table" /></a>
+    &ensp;
+    <a href="https://github.com/Biyakuga?tab=packages"><img alt="Packages" title="Packages" src="https://custom-icon-badges.herokuapp.com/badge/-Packages-B95B94?style=for-the-badge&logoColor=white&logo=package" /></a>
 </p>
 
 <!-- Selected Images -->
@@ -162,21 +154,16 @@ https://user-images.githubusercontent.com/67515021/150619137-5b4d018b-aa49-4975-
 ## Statistics
 General data about my activity and projects
 
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <p align=center>
-    <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats">
-       <img width="48.0%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=true&bg_color=transparent&title_color=B95B94&text_color=111111&icon_color=B95B94" />
-    </a>
-    &nbsp;
-<!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <a  href="https://github.com/Biyakuga" title="Biyakuga Github Streak">
-        <img width="48.0%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=transparent&border=transparent&stroke=B95B94&sideNums=111111&currStreakNum=111111&ring=B95B94&fire=B95B94&currStreakLabel=111111&sideLabels=111111&dates=888888)](https://git.io/streak-stats">
-    </a>
+    <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+    <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats"><img width="48.0%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=true&bg_color=transparent&title_color=B95B94&text_color=111111&icon_color=B95B94" /></a>
+    &ensp;
+    <!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <a  href="https://github.com/Biyakuga" title="Biyakuga Github Streak"><img width="48.0%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=transparent&border=transparent&stroke=B95B94&sideNums=111111&currStreakNum=111111&ring=B95B94&fire=B95B94&currStreakLabel=111111&sideLabels=111111&dates=888888)](https://git.io/streak-stats"></a>
 </p>
 <p align=center>
 <!-- GitHub Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=transparent&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph">     </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=transparent&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"></a>
 </p>
 
 <!-- Support Me -->
@@ -184,26 +171,15 @@ General data about my activity and projects
 Please consider supporting my work by donating a few bucks via the links below.
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/" target="_blank">
-        <img width="18%" alt="Buy me a coffee" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.svg" />
-    </a> &nbsp;
-    <a href="https://www.gofundme.com/" target="_blank">
-        <img width="18%" alt="Please GoFundMe" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/GoFundMe.svg" />
-     </a> &nbsp;
-    <a href="https://www.patreon.com/" target="_blank">
-        <img width="18%" alt="Support on Patreon" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Patreon.svg" />
-     </a> &nbsp;
-    <a href="https://www.paypal.com" target="_blank">
-          <img width="18%" alt="Donate with Paypal" 
-          src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/PayPal.svg" />
-    </a> &nbsp;
-    <a href="https://github.com/sponsors/" target="_blank">
-          <img width="18%" alt="Sponsor Me" 
-          src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Sponsor.svg" />
-    </a>
+    <a href="https://www.buymeacoffee.com/" target="_blank"><img width="18%" alt="Buy me a coffee" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/BuyCoffee.svg" /></a>
+    &ensp;
+    <a href="https://www.gofundme.com/" target="_blank"><img width="18%" alt="Please GoFundMe" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/GoFundMe.svg" /></a>
+    &ensp;
+    <a href="https://www.patreon.com/" target="_blank"><img width="18%" alt="Support on Patreon" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Patreon.svg" /></a>
+    &ensp;
+    <a href="https://www.paypal.com" target="_blank"><img width="18%" alt="Donate with Paypal" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/PayPal.svg" /></a>
+    &ensp;
+    <a href="https://github.com/sponsors/" target="_blank"><img width="18%" alt="Sponsor Me" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Support/Sponsor.svg" /></a>
 </p>
 
 <!-- Repository License -->
@@ -235,68 +211,23 @@ You can read more about the license of this repository below.
 ## Contact
 You can reach me out me and chat with me via the following platforms below.
 <p>
-    <a align="center" href="https://www.youtube.com/"> 
-        <img align="center" high="32" width="32"
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Youtube.png" 
-        title="Icon 01 - YouTube"
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://outlook.com/"> 
-        <img align="center" high="32" width="32" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Mail.png" 
-        title="Icon 02 - Email" 
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://www.twitter.com/"> 
-        <img align="center" high="32" width="32"
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Twitter.png" 
-        title="Icon 03 - Twitter"
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://www.whatsapp.com/"> 
-        <img align="center" high="32" width="32"
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Whatsapp.png" 
-        title="Icon 04 - Whatsapp"
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://linkedin.com/"> 
-        <img align="center" high="32" width="32"
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Linkedin.png" 
-        title="Icon 05 - Linkedin"
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://www.facebook.com/"> 
-        <img align="center" high="32" width="32"
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Facebook.png" 
-        title="Icon 06 - Facebook"
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://discordapp.com/"> 
-        <img align="center" high="32" width="32"
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Discord.png" 
-        title="Icon 07 - Discord"
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://www.instagram.com/"> 
-        <img align="center" high="32" width="32"
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Instagram.png" 
-        title="Icon 08 - Instagram"
-        alt="Icon">
-    </a>
-        &nbsp; &nbsp;
-    <a align="center" href="https://github.com/"> 
-        <img align="center" high="32" width="32" 
-        src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png" 
-        title="Icon 09 - GitHub"
-        alt="Icon">
-    </a>
+    <a align="center" href="https://www.youtube.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Youtube.png" title="Icon 01 - YouTube" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://outlook.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Mail.png" title="Icon 02 - Email" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://www.twitter.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Twitter.png" title="Icon 03 - Twitter" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://www.whatsapp.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Whatsapp.png" title="Icon 04 - Whatsapp" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://linkedin.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Linkedin.png" title="Icon 05 - Linkedin" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://www.facebook.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Facebook.png" title="Icon 06 - Facebook" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://discordapp.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Discord.png" title="Icon 07 - Discord" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://www.instagram.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Instagram.png" title="Icon 08 - Instagram" alt="Icon"></a>
+        &ensp; &ensp;
+    <a align="center" href="https://github.com/"><img align="center" high="32" width="32" src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Icons/Contact/Github.png" title="Icon 09 - GitHub" alt="Icon"></a>
 </p>
 
 <!-- Extra (Footer) -->
