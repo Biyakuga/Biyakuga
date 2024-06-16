@@ -49,10 +49,9 @@
     <img src="https://img.shields.io/github/contributors/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=GitHub"
     title="Badge 12 - GitHub Repo Contributors"
     alt="Badge" />
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fexample.com%2F&up_message=online&up_color=white&down_message=offline&style=flat&logo=GitHub&label=Website&labelColor=B95B94"
+    <a href="https://www.example.com/" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fexample.com%2F&up_message=online&up_color=white&down_message=offline&style=flat&logo=GitHub&label=Website&labelColor=B95B94"
     title="Badge 13 - GitHub Repo Website"
-    alt="Badge"
-    />
+    alt="Badge" /></a>
 </p>
 
 <!-- About Me -->
