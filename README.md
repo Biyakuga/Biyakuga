@@ -53,12 +53,28 @@
 
 <!-- About Me -->
 ## About
-My name is **`Biyakuga Higashiri`** and I am a freelance developer with a passion for user experience, user interfaces, games, tools, and in general, anything that can be coded.<br>
-Besides, I am one of the founders and the current owner of the group Nostalgia Community in the discord app.<br>
-We are doing amazing things there, such as developing tools to run old games from the 80s and 90s on modern computer systems.<br>
-Moreover, Besides programming, I love spending time with friends and family.
-I can often be found together going out catching the latest movie, staying in playing games on the sofa, or planning a trip to someplace I've never been before.<br>
-Last but not least, make sure to check out the [**ChangeLog**](CHANGELOG.md "Versions File") file for all the changes in this repository and the [**License**](LICENSE.md) of this repository to understand its permissions and limitations.
+Hello, I'm **`Biyakuga Higashiri`** a dedicated freelance developer with a strong passion for user experience, user interfaces, game development, and software tools. If it can be coded, I'm excited to dive in and create something innovative and useful.
+<!-- #### Professional Background - Part 01-->
+With several years of experience in the tech industry, I have honed my skills in various programming languages and frameworks.
+My expertise spans across front-end and back-end development, game design, and the creation of specialized tools.
+I thrive on challenges that push the boundaries of what's possible in software development.
+<!-- #### Professional Background - Part 02-->
+I am proud to be one of the founders and the current owner of the Nostalgia Community on Discord.
+Our community is dedicated to preserving the charm of classic games from the 1980s and 1990s by developing tools that enable these games to run seamlessly on modern computer systems.
+This project combines my technical skills with my love for retro gaming, and it’s incredibly rewarding to see our tools bring joy to fellow enthusiasts.
+<!-- #### Personal Interests -->
+Beyond the realm of coding, I believe in maintaining a balanced life enriched with diverse experiences.
+I enjoy spending quality time with friends and family, whether we're catching the latest blockbuster, indulging in video games on the sofa, or embarking on adventures to new destinations.
+These activities not only provide relaxation but also inspire my creativity and problem-solving skills in my professional work.
+<!-- #### Repository Information -->
+In this repository, you will find a collection of my projects and contributions.
+Each project is a testament to my commitment to excellence and innovation in software development.
+I encourage you to explore the code, provide feedback, and collaborate on future endeavors.
+Please make sure to check the [**ChangeLog**](CHANGELOG.md "Versions File") file for updates and changes in this repository.
+Additionally, review the [**License**](LICENSE.md) file to understand the permissions and limitations associated with this project.
+<!-- #### Get in Touch -->
+I'm always open to connecting with like-minded individuals and exploring new opportunities.
+Whether you're interested in collaborating on a project or just want to discuss the latest trends in technology, feel free to reach out!
 
 <!-- My Skills -->
 <!-- Badges: https://shields.io/ -->
