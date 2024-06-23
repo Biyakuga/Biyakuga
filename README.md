@@ -122,7 +122,7 @@ Selected repositories to demonstrate my experience
 <!-- Selected videos to watch and have fun while reading this readme -->
 
 <!-- Selected Audios -->
-## Audios
+## Audio
 Selected audio to listen and relax while reading this readme
 
 <details>
