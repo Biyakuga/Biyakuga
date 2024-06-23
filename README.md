@@ -28,25 +28,24 @@
 <!-- About Me -->
 ## About
 Hello, I'm **`Biyakuga Higashiri`** a dedicated freelance developer with a strong passion for user experience, user interfaces, game development, and software tools. If it can be coded, I'm excited to dive in and create something innovative and useful.
-<!-- #### Professional Background - Part 01-->
+#### Professional Background
 With several years of experience in the tech industry, I have honed my skills in various programming languages and frameworks.
 My expertise spans across front-end and back-end development, game design, and the creation of specialized tools.
 I thrive on challenges that push the boundaries of what's possible in software development.
-<!-- #### Professional Background - Part 02-->
 I am proud to be one of the founders and the current owner of the Nostalgia Community on Discord.
 Our community is dedicated to preserving the charm of classic games from the 1980s and 1990s by developing tools that enable these games to run seamlessly on modern computer systems.
 This project combines my technical skills with my love for retro gaming, and it’s incredibly rewarding to see our tools bring joy to fellow enthusiasts.
-<!-- #### Personal Interests -->
+#### Personal Interests
 Beyond the realm of coding, I believe in maintaining a balanced life enriched with diverse experiences.
 I enjoy spending quality time with friends and family, whether we're catching the latest blockbuster, indulging in video games on the sofa, or embarking on adventures to new destinations.
 These activities not only provide relaxation but also inspire my creativity and problem-solving skills in my professional work.
-<!-- #### Repository Information -->
+#### Repository Information
 In this repository, you will find a collection of my projects and contributions.
 Each project is a testament to my commitment to excellence and innovation in software development.
 I encourage you to explore the code, provide feedback, and collaborate on future endeavors.
 Please make sure to check the [**ChangeLog**](CHANGELOG.md "Versions File") file for updates and changes in this repository.
 Additionally, review the [**License**](LICENSE.md) file to understand the permissions and limitations associated with this project.
-<!-- #### Get in Touch -->
+#### Get in Touch
 I'm always open to connecting with like-minded individuals and exploring new opportunities.
 Whether you're interested in collaborating on a project or just want to discuss the latest trends in technology, feel free to reach out!
 
@@ -102,11 +101,11 @@ Whether you're interested in collaborating on a project or just want to discuss 
 ## Favorites
 Selected repositories to demonstrate my experience 
 
-| # | Name                | Language                  | Description                       | Version      | Date               |
-|---|---------------------|---------------------------|-----------------------------------|--------------|--------------------|
-| 1 | Biyakuga            | Html, Css and JavaScript  | A General introduction            | 1.0.1        | 01.01.2024         |
-| 2 | Repository Template | Markdowns and Templates   | Template for projects             | 1.0.0        | 01.01.2024         |
-| 3 | Nostalgia Community | Old Games Projects        | Preservation and Development      | 1.0.0        | 01.01.2024         |
+| # | Name                | Language                  | Description                       | Version      | Date               | License   | Status     |
+|---|---------------------|---------------------------|-----------------------------------|--------------|--------------------|-----------|------------|
+| 1 | Biyakuga            | Html, Css and JavaScript  | A General Introduction            | 1.0.1        | 01.01.2024         | MIT       | Completed  |
+| 2 | Repository Template | Markdowns and Templates   | Template for Projects             | 1.0.0        | 01.01.2024         | MIT       | Inactive   |
+| 3 | Nostalgia Community | Old Games Projects        | Preservation and Development      | 1.0.0        | 01.01.2024         | MIT       | Active     |
 
 <!-- Buttons https://custom-icon-badges.herokuapp.com/ -->
 <!-- Icons https://primer.style/octicons/ -->
@@ -122,6 +121,8 @@ Selected repositories to demonstrate my experience
     <a href="https://github.com/Biyakuga?tab=discussions"><img alt="Discussions" title="Discussions" src="https://custom-icon-badges.herokuapp.com/badge/-Discussions-B95B94?style=for-the-badge&logoColor=white&logo=comment-discussion" /></a>
     &ensp;
     <a href="https://github.com/Biyakuga?tab=wiki"><img alt="Wiki" title="Wiki" src="https://custom-icon-badges.herokuapp.com/badge/-Wiki-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
+    &ensp;
+    <a href="https://github.com/Biyakuga?tab=actions"><img alt="Actions" title="Actions" src="https://custom-icon-badges.herokuapp.com/badge/-Actions-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
 </p>
 
 <!-- Selected Images -->
