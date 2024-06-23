@@ -108,9 +108,9 @@ Selected repositories to demonstrate my experience
     &ensp;
     <a href="https://github.com/Biyakuga?tab=discussions"><img alt="Discussions" title="Discussions" src="https://custom-icon-badges.herokuapp.com/badge/-Discussions-B95B94?style=for-the-badge&logoColor=white&logo=comment-discussion" /></a>
     &ensp;
-    <a href="https://github.com/Biyakuga?tab=wiki"><img alt="Wiki" title="Wiki" src="https://custom-icon-badges.herokuapp.com/badge/-Wiki-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
-    &ensp;
     <a href="https://github.com/Biyakuga?tab=actions"><img alt="Actions" title="Actions" src="https://custom-icon-badges.herokuapp.com/badge/-Actions-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
+    <!-- &ensp; -->
+    <!-- <a href="https://github.com/Biyakuga?tab=wiki"><img alt="Wiki" title="Wiki" src="https://custom-icon-badges.herokuapp.com/badge/-Wiki-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a> -->
 </p>
 
 <!-- Selected Images -->
