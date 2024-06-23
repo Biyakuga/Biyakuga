@@ -27,25 +27,18 @@
 
 <!-- About Me -->
 ## About
-Hello, I'm **`Biyakuga Higashiri`** a dedicated freelance developer with a strong passion for user experience, user interfaces, game development, and software tools. If it can be coded, I'm excited to dive in and create something innovative and useful.
-#### Professional Background
-With several years of experience in the tech industry, I have honed my skills in various programming languages and frameworks.
-My expertise spans across front-end and back-end development, game design, and the creation of specialized tools.
-I thrive on challenges that push the boundaries of what's possible in software development.
-I am proud to be one of the founders and the current owner of the Nostalgia Community on Discord.
-Our community is dedicated to preserving the charm of classic games from the 1980s and 1990s by developing tools that enable these games to run seamlessly on modern computer systems.
-This project combines my technical skills with my love for retro gaming, and it’s incredibly rewarding to see our tools bring joy to fellow enthusiasts.
-#### Personal Interests
+Hello, I'm **`Biyakuga Higashiri`** a dedicated freelance developer with a strong passion for user experience, user interfaces, game development, and software tools.
+If it can be coded, I'm excited to dive in and create something innovative and useful, bringing fresh ideas to life through technology.
+I thrive on transforming complex problems into elegant, user-friendly solutions that not only meet but exceed user expectations, providing a seamless and enjoyable experience.
+
+With years of tech industry experience, I have honed my skills in various programming languages and frameworks, excelling in front-end and back-end development, game design, and tool creation.
+As a founder and current owner of the Nostalgia Community on Discord, I help preserve classic games from the 1980s and 1990s by developing tools that run them on modern systems.
+This project combines my technical skills with my love for retro gaming, bringing joy to fellow enthusiasts.
+
 Beyond the realm of coding, I believe in maintaining a balanced life enriched with diverse experiences.
 I enjoy spending quality time with friends and family, whether we're catching the latest blockbuster, indulging in video games on the sofa, or embarking on adventures to new destinations.
 These activities not only provide relaxation but also inspire my creativity and problem-solving skills in my professional work.
-#### Repository Information
-In this repository, you will find a collection of my projects and contributions.
-Each project is a testament to my commitment to excellence and innovation in software development.
-I encourage you to explore the code, provide feedback, and collaborate on future endeavors.
-Please make sure to check the [**ChangeLog**](CHANGELOG.md "Versions File") file for updates and changes in this repository.
-Additionally, review the [**License**](LICENSE.md) file to understand the permissions and limitations associated with this project.
-#### Get in Touch
+
 I'm always open to connecting with like-minded individuals and exploring new opportunities.
 Whether you're interested in collaborating on a project or just want to discuss the latest trends in technology, feel free to reach out!
 
@@ -53,6 +46,8 @@ Whether you're interested in collaborating on a project or just want to discuss 
 <!-- Badges: https://shields.io/ -->
 <!-- Icons: https://simpleicons.org/ -->
 ## Skills
+Below are my key skills, represented with badges
+
 <p>
     <img src="https://img.shields.io/badge/-MsSql-3e739e?style=flat&logo=microsoft-sql-server&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Java-3e739e?style=flat&logo=java&logoColor=ffffff" />
@@ -88,13 +83,6 @@ Whether you're interested in collaborating on a project or just want to discuss 
     <img src="https://img.shields.io/badge/-GitHub-3e739e?style=flat&logo=github&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-Medium-3e739e?style=flat&logo=medium&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/-React-3e739e?style=flat&logo=react&logoColor=ffffff" />
-</p>
-<p>
-    The list above shows the programming languages, frameworks, databases, software, and technologies I had experience with within some of my projects and studies in recent    
-    years.
-    <br>
-    I have in some of those technologies and programming languages more advanced knowledge and experiences than others.<br>
-    Please make sure to check out my repository to find out more about my skills and knowledge.
 </p>
 
 <!-- Table (Favorite Repository) -->
@@ -161,7 +149,7 @@ General data about my activity and projects
 </p>
 <p align=center>
 <!-- GitHub Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="97.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=transparent&amp;color=B95B94&amp;line=B95B94&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"></a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="96.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=transparent&amp;color=B95B94&amp;line=B95B94&amp;point=000000&amp;area=true&amp;hide_border=true"></a>
 </p>
 
 <!-- Support Me -->
