@@ -13,42 +13,18 @@
 <!-- Badges: https://shields.io/ -->
 <!-- Icons: https://custom-icon-badges.demolab.com/ -->
 <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/github/watchers/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=eye"
-    title="Badge 01 - GitHub All Watchers"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/downloads/Biyakuga/Biyakuga/total?style=flat&labelColor=B95B94&color=FFFFFF&logo=download"
-    title="Badge 02 - GitHub All Releases"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/contributors/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=graph"
-    title="Badge 03 - GitHub Contributors"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/license/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=law"
-    title="Badge 04 - GitHub License"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/issues/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=issue"
-    title="Badge 05 - GitHub Issues"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/forks/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=repo-forked"
-    title="Badge 06 - GitHub All Forks"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/v/release/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=code"
-    title="Badge 07 - GitHub Release By Date"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/repo-size/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&label=size&logo=file-code"
-    title="Badge 08 - GitHub Repo Size"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/stars/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=star"
-    title="Badge 09 - GitHub Repo Stars"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/followers/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=person-add"
-    title="Badge 10 - GitHub All Followers"
-    alt="Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/languages/count/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=translate&logoColor=FFFFFF"
-    title="Badge 11 - GitHub Repo Languages"
-    alt="Badge" />
-    <a href="https://www.example.com/" target="_blank"><img alt="Website" src="https://custom-icon-badges.demolab.com/website?url=https%3A%2F%2Fexample.com%2F&up_message=online&up_color=white&down_message=offline&style=flat&logo=browser&label=Website&labelColor=B95B94"
-    title="Badge 13 - GitHub Repo Website"
-    alt="Badge" /></a>
+    <img src="https://custom-icon-badges.demolab.com/github/watchers/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=eye" title="Badge 01 - GitHub All Watchers" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/downloads/Biyakuga/Biyakuga/total?style=flat&labelColor=B95B94&color=FFFFFF&logo=download" title="Badge 02 - GitHub All Releases" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/contributors/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=graph" title="Badge 03 - GitHub Contributors" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/license/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=law" title="Badge 04 - GitHub License" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/issues/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=issue" title="Badge 05 - GitHub Issues" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/forks/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=repo-forked" title="Badge 06 - GitHub All Forks" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/v/release/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=code" title="Badge 07 - GitHub Release By Date" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/repo-size/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&label=size&logo=file-code" title="Badge 08 - GitHub Repo Size" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=star" title="Badge 09 - GitHub Repo Stars" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=person-add" title="Badge 10 - GitHub All Followers" alt="Badge" />
+    <img src="https://custom-icon-badges.demolab.com/github/languages/count/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=typography" title="Badge 11 - GitHub Repo Languages" alt="Badge" />
+    <a href="https://www.example.com/" target="_blank"><img alt="Website" src="https://custom-icon-badges.demolab.com/website?url=https%3A%2F%2Fexample.com%2F&up_message=online&up_color=white&down_message=offline&style=flat&logo=browser&label=website&labelColor=B95B94" title="Badge 13 - GitHub Repo Website" alt="Badge" /></a>
 </p>
 
 <!-- About Me -->
