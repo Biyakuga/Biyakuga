@@ -4,9 +4,7 @@
 <!-- Logo (Header) -->
 <p align="center">
     <a href="https://github.com/Biyakuga/Biyakuga/tree/main/Images/Backgrounds/Background_001.png">
-        <img src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_001.png"
-        title="Background 001 - Sakura Trees with Profile"
-        alt="Background" />
+        <img src="https://github.com/Biyakuga/Biyakuga/blob/main/Images/Backgrounds/Background_001.png" title="Background 001 - Sakura Trees with Profile" alt="Background" />
     </a>
 </p>
 
@@ -24,7 +22,7 @@
     <img src="https://custom-icon-badges.demolab.com/github/stars/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=star" title="Badge 09 - GitHub Repo Stars" alt="Badge" />
     <img src="https://custom-icon-badges.demolab.com/github/followers/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=person-add" title="Badge 10 - GitHub All Followers" alt="Badge" />
     <img src="https://custom-icon-badges.demolab.com/github/languages/count/Biyakuga/Biyakuga?style=flat&labelColor=B95B94&color=FFFFFF&logo=typography" title="Badge 11 - GitHub Repo Languages" alt="Badge" />
-    <a href="https://www.example.com/" target="_blank"><img alt="Website" src="https://custom-icon-badges.demolab.com/website?url=https%3A%2F%2Fexample.com%2F&up_message=online&up_color=white&down_message=offline&style=flat&logo=browser&label=website&labelColor=B95B94" title="Badge 13 - GitHub Repo Website" alt="Badge" /></a>
+    <a href="https://www.example.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/website?url=https%3A%2F%2Fexample.com%2F&up_message=online&up_color=white&down_message=offline&style=flat&logo=browser&label=website&labelColor=B95B94" title="Badge 13 - GitHub Repo Website" alt="Badge" /></a>
 </p>
 
 <!-- About Me -->
@@ -101,11 +99,14 @@ Whether you're interested in collaborating on a project or just want to discuss 
 </p>
 
 <!-- Table (Favorite Repository) -->
-| # | Repository          | Technology                | Purpose                       |
-|---|---------------------|---------------------------|-------------------------------|
-| 1 | Biyakuga            | Html, Css and JavaScript  | A General introduction        |
-| 2 | Repository Template | Markdowns and Templates   | Template for projects         |
-| 3 | Nostalgia Community | Old Games Projects        | Preservation and Development  |
+## Favorites
+Selected repositories to demonstrate my experience 
+
+| # | Name                | Language                  | Description                       | Version      | Date               |
+|---|---------------------|---------------------------|-----------------------------------|--------------|--------------------|
+| 1 | Biyakuga            | Html, Css and JavaScript  | A General introduction            | 1.0.1        | 01.01.2024         |
+| 2 | Repository Template | Markdowns and Templates   | Template for projects             | 1.0.0        | 01.01.2024         |
+| 3 | Nostalgia Community | Old Games Projects        | Preservation and Development      | 1.0.0        | 01.01.2024         |
 
 <!-- Buttons https://custom-icon-badges.herokuapp.com/ -->
 <!-- Icons https://primer.style/octicons/ -->
@@ -117,6 +118,10 @@ Whether you're interested in collaborating on a project or just want to discuss 
     <a href="https://github.com/Biyakuga?tab=projects&type=beta"><img alt="Projects" title="Projects" src="https://custom-icon-badges.herokuapp.com/badge/-Projects-B95B94?style=for-the-badge&logoColor=white&logo=table" /></a>
     &ensp;
     <a href="https://github.com/Biyakuga?tab=packages"><img alt="Packages" title="Packages" src="https://custom-icon-badges.herokuapp.com/badge/-Packages-B95B94?style=for-the-badge&logoColor=white&logo=package" /></a>
+    &ensp;
+    <a href="https://github.com/Biyakuga?tab=discussions"><img alt="Discussions" title="Discussions" src="https://custom-icon-badges.herokuapp.com/badge/-Discussions-B95B94?style=for-the-badge&logoColor=white&logo=comment-discussion" /></a>
+    &ensp;
+    <a href="https://github.com/Biyakuga?tab=wiki"><img alt="Wiki" title="Wiki" src="https://custom-icon-badges.herokuapp.com/badge/-Wiki-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
 </p>
 
 <!-- Selected Images -->
