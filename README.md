@@ -27,20 +27,18 @@
 
 <!-- About Me -->
 ## About
-Hello, I'm **`Biyakuga Higashiri`** a dedicated freelance developer with a strong passion for user experience, user interfaces, game development, and software tools.
-If it can be coded, I'm excited to dive in and create something innovative and useful, bringing fresh ideas to life through technology.
-I thrive on transforming complex problems into elegant, user-friendly solutions that not only meet but exceed user expectations, providing a seamless and enjoyable experience.
+Hello, I'm **`Biyakuga Higashiri`** a dedicated freelance developer passionate about user experience, interfaces, game development, and software tools.
+With years of tech industry experience, I excel in both front-end and back-end development, game design, and tool creation.
+As the founder of the Nostalgia Community on Discord, I develop tools to run classic 1980s and 1990s games on modern systems, blending my technical skills with my love for retro gaming.
 
-With years of tech industry experience, I have honed my skills in various programming languages and frameworks, excelling in front-end and back-end development, game design, and tool creation.
-As a founder and current owner of the Nostalgia Community on Discord, I help preserve classic games from the 1980s and 1990s by developing tools that run them on modern systems.
-This project combines my technical skills with my love for retro gaming, bringing joy to fellow enthusiasts.
+I thrive on transforming complex problems into elegant, user-friendly solutions that exceed user expectations.
+My work focuses on creating innovative and seamless experiences, whether through coding fresh ideas or preserving beloved classic games.
+This dedication to quality and innovation drives my projects and collaborations.
 
-Beyond the realm of coding, I believe in maintaining a balanced life enriched with diverse experiences.
-I enjoy spending quality time with friends and family, whether we're catching the latest blockbuster, indulging in video games on the sofa, or embarking on adventures to new destinations.
-These activities not only provide relaxation but also inspire my creativity and problem-solving skills in my professional work.
-
-I'm always open to connecting with like-minded individuals and exploring new opportunities.
-Whether you're interested in collaborating on a project or just want to discuss the latest trends in technology, feel free to reach out!
+Beyond coding, I enjoy a balanced life enriched with diverse experiences.
+I spend quality time with friends and family, catching the latest blockbuster, indulging in video games, or embarking on new adventures.
+These activities inspire my creativity and problem-solving skills, enhancing my professional work.
+I'm always open to connecting with like-minded individuals and exploring new opportunities, so feel free to reach out!
 
 <!-- My Skills -->
 <!-- Badges: https://shields.io/ -->
@@ -108,9 +106,10 @@ Selected repositories to demonstrate my experience
     &ensp;
     <a href="https://github.com/Biyakuga?tab=discussions"><img alt="Discussions" title="Discussions" src="https://custom-icon-badges.herokuapp.com/badge/-Discussions-B95B94?style=for-the-badge&logoColor=white&logo=comment-discussion" /></a>
     &ensp;
-    <a href="https://github.com/Biyakuga?tab=actions"><img alt="Actions" title="Actions" src="https://custom-icon-badges.herokuapp.com/badge/-Actions-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
+    <a href="https://github.com/Biyakuga?tab=wiki"><img alt="Wiki" title="Wiki" src="https://custom-icon-badges.herokuapp.com/badge/-Wiki-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a>
     <!-- &ensp; -->
-    <!-- <a href="https://github.com/Biyakuga?tab=wiki"><img alt="Wiki" title="Wiki" src="https://custom-icon-badges.herokuapp.com/badge/-Wiki-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a> -->
+    <!-- <a href="https://github.com/Biyakuga?tab=actions"><img alt="Actions" title="Actions" src="https://custom-icon-badges.herokuapp.com/badge/-Actions-B95B94?style=for-the-badge&logoColor=white&logo=book" /></a> -->
+
 </p>
 
 <!-- Selected Images -->
