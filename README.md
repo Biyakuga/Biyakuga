@@ -139,13 +139,13 @@ https://user-images.githubusercontent.com/67515021/150619137-5b4d018b-aa49-4975-
 ## Statistics
 General data about my activity and projects
 
-<p align=center>
+<!-- <p align=center>
     <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
     <a href="https://github.com/Biyakuga" title="Biyakuga Github Stats"><img width="48.0%" align="center" src="https://github-readme-stats.vercel.app/api?username=biyakuga&show_icons=true&hide_border=true&bg_color=transparent&title_color=B95B94&text_color=111111&icon_color=B95B94" /></a>
     &ensp;
     <!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
     <a  href="https://github.com/Biyakuga" title="Biyakuga Github Streak"><img width="48.0%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Biyakuga&date_format=j%20M%5B%20Y%5D&background=transparent&border=transparent&stroke=B95B94&sideNums=111111&currStreakNum=111111&ring=B95B94&fire=B95B94&currStreakLabel=111111&sideLabels=111111&dates=888888)](https://git.io/streak-stats"></a>
-</p>
+</p> -->
 <p align=center>
 <!-- GitHub Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="96.0%" align=center alt="Biyakuga Higashiri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=biyakuga&amp;bg_color=transparent&amp;color=B95B94&amp;line=B95B94&amp;point=000000&amp;area=true&amp;hide_border=true"></a>
@@ -223,4 +223,4 @@ You can reach me out me and chat with me via the following platforms below.
 <img src="https://readme-typing-svg.herokuapp.com?color=%23DA69AC&width=350&height=25&lines=The+dream+is+your+wings;The+direction+is+to+the+sky" alt="Github"/>
 <p align="left">Feel free to use elements from this repository on your own one or get inspired by it, also make sure to share ideas and other features that can make this repository better.</p>
 <p align="left">This <i>README</i> file is generated every 24 hours by an action process, last refresh: Wednesday, 1 January, 00:00 CET.</p><br><br><br>
-<p align="center"><b>Biyakuga Higashiri © Copyright 2024 All Rights Reserved.</b></p>
+<p align="center"><b>Biyakuga Higashiri © Copyright 2026 All Rights Reserved.</b></p>
